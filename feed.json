@@ -1,23 +1,45 @@
 {
- "generated": "2026-10-29T19:02:22+11:00",
+ "generated": "2026-10-29T20:02:47+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
    "state": "DONE",
-   "last_ts": "2026-10-29T18:50:50+11:00"
+   "last_ts": "2026-10-29T18:50:50+11:00",
+   "has_input": true,
+   "next_run": null
   },
   {
    "id": "head-of-social-media",
    "state": "HOLD",
-   "last_ts": "2026-10-29T18:50:50+11:00"
+   "last_ts": "2026-10-29T18:50:50+11:00",
+   "has_input": false,
+   "next_run": null
   },
   {
    "id": "publisher",
    "state": "BLOCKED",
-   "last_ts": "2026-10-29T18:50:50+11:00"
+   "last_ts": "2026-10-29T18:50:50+11:00",
+   "has_input": false,
+   "next_run": null
   }
  ],
  "posts": [],
+ "schedule": [],
+ "handoffs": [
+  {
+   "desk": "publisher",
+   "brand": "FU1",
+   "count": 1
+  }
+ ],
+ "approvals": [],
+ "blockers": [
+  {
+   "desk": "publisher",
+   "brand": "FU1",
+   "count": 1
+  }
+ ],
  "brands": [
   {
    "platform": "youtube",
@@ -220,5 +242,17 @@
   },
   "queue": 1,
   "holds": 2
+ },
+ "inbox_enc": {
+  "v": 1,
+  "salt": "dRbMfHy4xqf7bagvzPpflg==",
+  "iv": "ShoyFFUc2g0vQ+m7",
+  "data": "YRbYBLmJLJCuIfm6qyn0uSjZCpmeAGVPbDNF4ze19iNYRzZo3YztT0ABGU1U1dlY+K0xnymo7P5SmHOUs48hJzkk5YyfUzfZLNeHfAL3LQ9ml1o+83kGB0/H0YUydhnxBVkxkKdOJIirJoC8WZKIJ0IfkXMZuqaJwbHaVra+VP+0iHAw9IeHsO8P0o0GULAQ/nJGN4lTS99R6iQrTNujzrjTPAK4/aIcXNxTJRBwtlY="
+ },
+ "trading_enc": {
+  "v": 1,
+  "salt": "KaNAqXnUGj1rnup9fKIHbg==",
+  "iv": "lB0hKhPLGw5zVtbQ",
+  "data": "nH5jo1rQU2wTfmTr/lTKIcJ91FpHIdnPtr7MWAU3C/dPNTLMyXRwWNakGhmhvYFiThjLBiyAq/ReFVE71Jd9I0reKiskYl8QLugZUqKpR0nXoxP9Jm2LH0kVUS4BXAi1lYLa"
  }
 }
