@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T20:02:47+11:00",
+ "generated": "2026-10-29T20:32:40+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -245,14 +245,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "dRbMfHy4xqf7bagvzPpflg==",
-  "iv": "ShoyFFUc2g0vQ+m7",
-  "data": "YRbYBLmJLJCuIfm6qyn0uSjZCpmeAGVPbDNF4ze19iNYRzZo3YztT0ABGU1U1dlY+K0xnymo7P5SmHOUs48hJzkk5YyfUzfZLNeHfAL3LQ9ml1o+83kGB0/H0YUydhnxBVkxkKdOJIirJoC8WZKIJ0IfkXMZuqaJwbHaVra+VP+0iHAw9IeHsO8P0o0GULAQ/nJGN4lTS99R6iQrTNujzrjTPAK4/aIcXNxTJRBwtlY="
+  "salt": "uh1RyVzZ+JJZ3C44A3cCRg==",
+  "iv": "Z9FOVoOqkcHpsqSt",
+  "data": "jg4XybO1vvs5l935AZWPhm8oRy/LN7oDRl6aZFV3cdA84qH3syK4muxzOvVsEVPCAhXscFvhFDwKBHrVZC6COjWHLUnyv3m6GDeJGMvKcdXmk33/FRnDkqOMmpN27lauuVDv3GmzfizZJylFedPvDuaXMZZRJum7fwNsvT2NSYLkaUXN3pYFnySRTkarjfVBrpvom1AjIxG/pMB+DJAsVbCpYWkFyWyc2p8uevNUA5o="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "KaNAqXnUGj1rnup9fKIHbg==",
-  "iv": "lB0hKhPLGw5zVtbQ",
-  "data": "nH5jo1rQU2wTfmTr/lTKIcJ91FpHIdnPtr7MWAU3C/dPNTLMyXRwWNakGhmhvYFiThjLBiyAq/ReFVE71Jd9I0reKiskYl8QLugZUqKpR0nXoxP9Jm2LH0kVUS4BXAi1lYLa"
+  "salt": "JRY0EyFGxM06m9gN6HDC2Q==",
+  "iv": "RcizOPNJjQjLNp+0",
+  "data": "CxhbzrvOvrejcyqdxR7UhX2Anrx5bHPrx2goZuAnnYlXhCN/R4plZTl50Vr68xN0PWFVLxrzivHfnwFCzOnGhh4fS6GgwUH+cH1FjQaQjULDTWLE/LGVPKii15B2PrIAu8Cz"
  }
 }
