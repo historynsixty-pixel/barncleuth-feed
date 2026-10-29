@@ -1,0 +1,224 @@
+{
+ "generated": "2026-10-29T19:02:22+11:00",
+ "desks": [
+  {
+   "id": "chief-of-staff",
+   "state": "DONE",
+   "last_ts": "2026-10-29T18:50:50+11:00"
+  },
+  {
+   "id": "head-of-social-media",
+   "state": "HOLD",
+   "last_ts": "2026-10-29T18:50:50+11:00"
+  },
+  {
+   "id": "publisher",
+   "state": "BLOCKED",
+   "last_ts": "2026-10-29T18:50:50+11:00"
+  }
+ ],
+ "posts": [],
+ "brands": [
+  {
+   "platform": "youtube",
+   "name": "Shift Fuel (@theshiftfuel) - unconfirmed",
+   "views": 134,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "youtube",
+   "name": "History in 60 (@History_n60) - unconfirmed",
+   "views": 3630,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "youtube",
+   "name": "Five Until One (@five_until_one)",
+   "views": 1431,
+   "likes": 0,
+   "subs": 5,
+   "history": [
+    2,
+    2,
+    5
+   ]
+  },
+  {
+   "platform": "youtube",
+   "name": "Nest Notes (@Nest_Notes)",
+   "views": 0,
+   "likes": 0,
+   "subs": 5,
+   "history": [
+    2,
+    2,
+    5
+   ]
+  },
+  {
+   "platform": "instagram",
+   "name": "Shift Fuel (@theshiftfuel) - unconfirmed",
+   "views": 271,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "instagram",
+   "name": "History in 60 (@historyn60) - unconfirmed",
+   "views": 2049,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "instagram",
+   "name": "Five Until One (@fiveuntilone) - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "instagram",
+   "name": "Nest Notes Instagram - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "facebook",
+   "name": "Shift Fuel Page - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "facebook",
+   "name": "History in 60 Page - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "facebook",
+   "name": "Five Until One Page - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "facebook",
+   "name": "Nest Notes Page - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "tiktok",
+   "name": "Shift Fuel (@shift_fuel) - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "tiktok",
+   "name": "History in 60 (@history_n_60s) - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "tiktok",
+   "name": "Five Until One TikTok - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "platform": "tiktok",
+   "name": "Nest Notes TikTok - unconfirmed",
+   "views": 0,
+   "likes": 0,
+   "subs": 0,
+   "history": [
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "counts": {
+  "desks_by_state": {
+   "DONE": 1,
+   "HOLD": 1,
+   "BLOCKED": 1
+  },
+  "queue": 1,
+  "holds": 2
+ }
+}
