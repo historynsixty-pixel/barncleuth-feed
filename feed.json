@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:39:44+11:00",
+ "generated": "2026-10-30T12:49:46+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -25,7 +25,7 @@
   {
    "id": "web-dev",
    "state": "DONE",
-   "last_ts": "2026-10-29T21:23:40+11:00",
+   "last_ts": "2026-10-30T11:44:27+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -67,28 +67,31 @@
  ],
  "posts": [
   {
-   "brand": "nest",
+   "brand": "NN",
    "platform": "yt",
    "url": "https://youtube.com/shorts/k9Au8njkQqA",
    "ts": "2026-10-30T09:55:26+11:00",
    "views": null,
-   "thumb": null
+   "thumb": null,
+   "title": null
   },
   {
-   "brand": "fu1",
+   "brand": "FU1",
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1939608843681750",
    "ts": "2026-10-30T09:13:08+11:00",
    "views": null,
-   "thumb": null
+   "thumb": null,
+   "title": null
   },
   {
-   "brand": "hi60",
+   "brand": "HI60",
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DfF8ifCI_Mg/",
    "ts": "2026-10-30T08:15:02+11:00",
    "views": null,
-   "thumb": null
+   "thumb": null,
+   "title": null
   },
   {
    "brand": "NN",
@@ -96,23 +99,35 @@
    "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
    "ts": "2026-10-29T22:54:59Z",
    "views": 2,
-   "thumb": "https://i.ytimg.com/vi/k9Au8njkQqA/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/k9Au8njkQqA/hqdefault.jpg",
+   "title": "Wash Hands Song for Toddlers | Nest Notes"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
+   "ts": "2026-10-29T21:00:12Z",
+   "views": 238,
+   "thumb": "https://i.ytimg.com/vi/ITy8zVcIxdQ/hqdefault.jpg",
+   "title": "Alexander: Dead at Thirty-Two — Part 2 #shorts"
   },
   {
    "brand": "FU1",
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
    "ts": "2026-10-29T07:03:50Z",
-   "views": 63,
-   "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg"
+   "views": 83,
+   "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg",
+   "title": "5 movie fight scenes that still hit"
   },
   {
    "brand": "NN",
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=Fjbxd7j3doc",
    "ts": "2026-10-28T20:54:29Z",
-   "views": 3,
-   "thumb": "https://i.ytimg.com/vi/Fjbxd7j3doc/hqdefault.jpg"
+   "views": 4,
+   "thumb": "https://i.ytimg.com/vi/Fjbxd7j3doc/hqdefault.jpg",
+   "title": "Color Clap Song for Toddlers | Nest Notes"
   },
   {
    "brand": "NN",
@@ -120,7 +135,8 @@
    "url": "https://www.youtube.com/watch?v=71tdEFq2TBU",
    "ts": "2026-10-28T20:21:32Z",
    "views": 2,
-   "thumb": "https://i.ytimg.com/vi/71tdEFq2TBU/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/71tdEFq2TBU/hqdefault.jpg",
+   "title": "Good Morning Song for Toddlers | Nest Notes"
   },
   {
    "brand": "SF",
@@ -128,7 +144,8 @@
    "url": "https://www.youtube.com/watch?v=RKLkzVHak4U",
    "ts": "2026-10-28T12:39:11Z",
    "views": 248,
-   "thumb": "https://i.ytimg.com/vi/RKLkzVHak4U/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/RKLkzVHak4U/hqdefault.jpg",
+   "title": "My live captions started describing my room. #Shorts"
   },
   {
    "brand": "SF",
@@ -136,7 +153,8 @@
    "url": "https://www.youtube.com/watch?v=AkRGZ1_RnjQ",
    "ts": "2026-10-28T12:37:35Z",
    "views": 25,
-   "thumb": "https://i.ytimg.com/vi/AkRGZ1_RnjQ/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/AkRGZ1_RnjQ/hqdefault.jpg",
+   "title": "I put the whole city to sleep. #Shorts"
   },
   {
    "brand": "SF",
@@ -144,7 +162,8 @@
    "url": "https://www.youtube.com/watch?v=hJovradrEQs",
    "ts": "2026-10-28T12:36:54Z",
    "views": 49,
-   "thumb": "https://i.ytimg.com/vi/hJovradrEQs/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/hJovradrEQs/hqdefault.jpg",
+   "title": "Overnight locksmith. Tonight I lock it from outside. #Shorts"
   },
   {
    "brand": "FU1",
@@ -152,7 +171,8 @@
    "url": "https://www.youtube.com/watch?v=qBTaPoF2xJ8",
    "ts": "2026-10-27T08:00:10Z",
    "views": 505,
-   "thumb": "https://i.ytimg.com/vi/qBTaPoF2xJ8/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/qBTaPoF2xJ8/hqdefault.jpg",
+   "title": "5 movie openings that hook in under 10 seconds"
   },
   {
    "brand": "HI60",
@@ -160,7 +180,8 @@
    "url": "https://www.youtube.com/watch?v=u7oHfRR_jao",
    "ts": "2026-10-26T21:00:19Z",
    "views": 259,
-   "thumb": "https://i.ytimg.com/vi/u7oHfRR_jao/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/u7oHfRR_jao/hqdefault.jpg",
+   "title": "Mansa Musa: Richest Ever — or Just the Loudest? #shorts"
   },
   {
    "brand": "FU1",
@@ -168,7 +189,8 @@
    "url": "https://www.youtube.com/watch?v=BKGDhfBLmdE",
    "ts": "2026-10-26T04:18:13Z",
    "views": 572,
-   "thumb": "https://i.ytimg.com/vi/BKGDhfBLmdE/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/BKGDhfBLmdE/hqdefault.jpg",
+   "title": "5 movie villains people still argue about"
   },
   {
    "brand": "HI60",
@@ -176,7 +198,8 @@
    "url": "https://www.youtube.com/watch?v=a0mzXaF_zPo",
    "ts": "2026-10-25T21:00:12Z",
    "views": 1934,
-   "thumb": "https://i.ytimg.com/vi/a0mzXaF_zPo/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/a0mzXaF_zPo/hqdefault.jpg",
+   "title": "Vlad the Impaler: Was Dracula Real? #shorts"
   },
   {
    "brand": "HI60",
@@ -184,7 +207,8 @@
    "url": "https://www.youtube.com/watch?v=9UsQ_sWz-Ng",
    "ts": "2026-10-25T09:30:15Z",
    "views": 337,
-   "thumb": "https://i.ytimg.com/vi/9UsQ_sWz-Ng/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/9UsQ_sWz-Ng/hqdefault.jpg",
+   "title": "Rasputin Part 2: The Autopsy Disagreed #shorts"
   },
   {
    "brand": "FU1",
@@ -192,7 +216,8 @@
    "url": "https://www.youtube.com/watch?v=KFDdHCkAVck",
    "ts": "2026-10-25T05:07:48Z",
    "views": 16,
-   "thumb": "https://i.ytimg.com/vi/KFDdHCkAVck/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/KFDdHCkAVck/hqdefault.jpg",
+   "title": "5 movie endings that still break people"
   },
   {
    "brand": "FU1",
@@ -200,7 +225,8 @@
    "url": "https://www.youtube.com/watch?v=akIYGRUms_k",
    "ts": "2026-10-25T02:04:37Z",
    "views": 1070,
-   "thumb": "https://i.ytimg.com/vi/akIYGRUms_k/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/akIYGRUms_k/hqdefault.jpg",
+   "title": "5 movie twists people still spoil-fight about"
   },
   {
    "brand": "HI60",
@@ -208,15 +234,8 @@
    "url": "https://www.youtube.com/watch?v=5UnbfDHOxik",
    "ts": "2026-10-24T21:00:23Z",
    "views": 1202,
-   "thumb": "https://i.ytimg.com/vi/5UnbfDHOxik/hqdefault.jpg"
-  },
-  {
-   "brand": "HI60",
-   "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=BZ3UBCaA8-c",
-   "ts": "2026-10-24T07:22:55Z",
-   "views": 212,
-   "thumb": "https://i.ytimg.com/vi/BZ3UBCaA8-c/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/5UnbfDHOxik/hqdefault.jpg",
+   "title": "Rasputin Part 1: A Peasant Ran the Court #shorts"
   },
   {
    "brand": "SF",
@@ -224,7 +243,8 @@
    "url": "https://www.youtube.com/watch?v=fAfZ3lWjtAg",
    "ts": "2026-10-24T01:00:20Z",
    "views": 62,
-   "thumb": "https://i.ytimg.com/vi/fAfZ3lWjtAg/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/fAfZ3lWjtAg/hqdefault.jpg",
+   "title": "Pump four authorises itself. Nobody's there. #Shorts"
   },
   {
    "brand": "HI60",
@@ -232,7 +252,8 @@
    "url": "https://www.youtube.com/watch?v=w9UoV2CuK8c",
    "ts": "2026-10-23T21:55:46Z",
    "views": 389,
-   "thumb": "https://i.ytimg.com/vi/w9UoV2CuK8c/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/w9UoV2CuK8c/hqdefault.jpg",
+   "title": "Genghis Khan: Builder or Destroyer? #shorts"
   },
   {
    "brand": "SF",
@@ -240,7 +261,8 @@
    "url": "https://www.youtube.com/watch?v=7KtkAJejhD0",
    "ts": "2026-10-23T01:00:20Z",
    "views": 14,
-   "thumb": "https://i.ytimg.com/vi/7KtkAJejhD0/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/7KtkAJejhD0/hqdefault.jpg",
+   "title": "Keep dryer 13 running. Never open it. #Shorts"
   },
   {
    "brand": "SF",
@@ -248,26 +270,27 @@
    "url": "https://www.youtube.com/watch?v=RgTFyVBFQbA",
    "ts": "2026-10-21T01:00:23Z",
    "views": 46,
-   "thumb": "https://i.ytimg.com/vi/RgTFyVBFQbA/hqdefault.jpg"
+   "thumb": "https://i.ytimg.com/vi/RgTFyVBFQbA/hqdefault.jpg",
+   "title": "I lied to room nine. The sun never came up. #Shorts"
   }
  ],
  "schedule": [
   {
-   "brand": "nest",
+   "brand": "NN",
    "platform": "yt",
    "url": "https://youtube.com/shorts/k9Au8njkQqA",
    "ts": "2026-10-30T09:55:26+11:00",
    "state": "LIVE"
   },
   {
-   "brand": "fu1",
+   "brand": "FU1",
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1939608843681750",
    "ts": "2026-10-30T09:13:08+11:00",
    "state": "LIVE"
   },
   {
-   "brand": "hi60",
+   "brand": "HI60",
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DfF8ifCI_Mg/",
    "ts": "2026-10-30T08:15:02+11:00",
@@ -278,6 +301,13 @@
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
    "ts": "2026-10-29T22:54:59Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
+   "ts": "2026-10-29T21:00:12Z",
    "state": "LIVE"
   },
   {
@@ -376,13 +406,6 @@
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=5UnbfDHOxik",
    "ts": "2026-10-24T21:00:23Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=BZ3UBCaA8-c",
-   "ts": "2026-10-24T07:22:55Z",
    "state": "LIVE"
   },
   {
@@ -428,12 +451,7 @@
   {
    "desk": "publisher",
    "brand": "FU1",
-   "count": 1
-  },
-  {
-   "desk": "publisher",
-   "brand": "fu1",
-   "count": 1
+   "count": 2
   }
  ],
  "approvals": [],
@@ -446,12 +464,7 @@
   {
    "desk": "publisher",
    "brand": "FU1",
-   "count": 1
-  },
-  {
-   "desk": "publisher",
-   "brand": "fu1",
-   "count": 1
+   "count": 2
   }
  ],
  "brands": [
@@ -467,7 +480,7 @@
     0
    ],
    "videos": 12,
-   "stats_ts": "2026-10-30T11:39:26+11:00"
+   "stats_ts": "2026-10-30T12:49:44+11:00"
   },
   {
    "platform": "youtube",
@@ -481,7 +494,7 @@
     0
    ],
    "videos": 10,
-   "stats_ts": "2026-10-30T11:39:26+11:00"
+   "stats_ts": "2026-10-30T12:49:44+11:00"
   },
   {
    "platform": "youtube",
@@ -495,7 +508,7 @@
     5
    ],
    "videos": 5,
-   "stats_ts": "2026-10-30T11:39:26+11:00"
+   "stats_ts": "2026-10-30T12:49:44+11:00"
   },
   {
    "platform": "youtube",
@@ -509,7 +522,7 @@
     5
    ],
    "videos": 3,
-   "stats_ts": "2026-10-30T11:39:26+11:00"
+   "stats_ts": "2026-10-30T12:49:44+11:00"
   },
   {
    "platform": "instagram",
@@ -668,14 +681,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "ccT6PUZGVgkbSW8Ehhs7GA==",
-  "iv": "/0izfH/whRxIWtyU",
-  "data": "YdhYTf0teE4sFQe1sliBlgFJPwZTOT6qDnYVJz16Xmc+bQm1ck6usJ3JIkp9UYZuooA4Gh0PCW5iiSnVTTSGLl3Wsgp2Oegzsp9KE5cTlevkuaL9dy5QmBe7YnbopEb86HXKb8CSRbnP4azs5TQgdeEKNFeYQ+2NFPOIZAP9rhxUaeeJBT2ekFOmfzCwixKa0UDoN0Ekm1byO++KB7s67A11Abqdt3ChSq9jksro0A4="
+  "salt": "azoLJYUnO7Tva7SBw3tlig==",
+  "iv": "CTc+68GxBL3HmxUs",
+  "data": "pibQFW2G8BSNqITvzw7TAty62i4Vw4JvPxkSefCbJGT0ja7bcf0MKhafUNd6omwkPpsiw4pVzgYKzTF87d68+rqv4jTC0E5Wkqhf+BFn52ThTyBnuVv9I/Socpc3x3blM127beo25wQlTBT3jjQRZmoNMETPzE37brBN5Nvakh8fQqajck6ImpnJURrac04MMJnUM3e5Q5dT3x+qNqDJtngfYSoTVw3s2D49cUBAJoQ="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "3jzjT2ECWcATfL60q4JsJA==",
-  "iv": "eapeWrBevlWcEeUX",
-  "data": "25weFGaj9f7Npyw+E1I8idhTiP76nGERXtFSz/RS5cgC3jaF7QMjVv1uj/uK6K7MCVcZodGF+2g6bIGRIynisZzSakq1s51C1U/bnQm8uQEr2PGokIAFGyKZGtKcZXgJHWfHQ5RWkBwEA7qKPsCRV93tGs9JFRT8ur03Kn8/Q2BiBbZ3riiQR0q4DIQjpzSq/edEIprqsfFn8AwOUy/x518+n+5QI1EaFT4OEO+Jn3Q2tySV+fp2HIYSEoez4PUBZiYH813ZEGrYvbkwix9wLkWeF0lt/FkAt6EZ+VG1V/C1yYnh3lGM/LUxi6QwA707TrRik3OnCM0lgo43ssRH8tavNlmrFBV+UB/Mq2m67NFarOq6Jbtx6dhZ6GOI3RvrmVxXehhNoMWCbvK5QwQm2qVCIJ7VrFTULX1JVKPIA55D4Px46u2KTKckunBwoULJYwG/6BtZvRVeLw97VSE+P6rqnAGDgVXS89LK7KrRbQxhIq9/XxpRzLPB8uN8be9Sa6937Nke1rPtvnsRyEwE1LOvhWY96JnixEENUGVOf2qW3bldSfvlWjC0Swc0odtgUcD0Um1v2uXskbdbqNNNtUAXEltpmAum+gOQhAzoHNFFlCoRfci0H9LWSDAlSz5G4CaHMwZ6H9cYJdPYnb/4UcRqtitdL8RmcFrVlJx7b4Etrb+A43Cx12jTy7CDh/qbdwYmBN2QIGW1z9Bv8cbq9Hzck4eSFEcUISRw77aPV8cz4Vf3lhCTEwScl15DR247Q4p36yx0rhunz0ozggbBAAE53GhOqrXZYf92QEU1zySQjjnPKMCnqPEv0dq5jFB0kvAaMNZAqDhISu82iJB74c5SKcTohc3Leq3s1dL4wedu4vQJkduV5fZOQLEhQobMbXFRgfTNT9XV8yG1J5kTCwaUrYeouVdUHu61hM181bwGfxFy/G5pgfp3Cwu5jcZEbeqF4OC+ZEfhziDKR1x0gj0cYzef5ytCvNG/BANjyiEg1f4c4/NH4eFhQsVl4cFYQCpqJJNM4kukUjlFpfztmobhxauv1dtl5NeYnBvk2SeL7ooqGNVPHMNN+zef1I1rtQScd1jbi9nldGTaV8xadzTcCI4="
+  "salt": "FX4PgcozNTt4kLMjZOzyLw==",
+  "iv": "MJylIFxj0bs9KLc4",
+  "data": "xGeUyntoyzQgExEZSyFmuIDJLpkYDToXIZEbq6R2NifMCHW22S4kysHwXBBEKzdlhEbUBdADlU9ppiF4qJNIef+gccl2ki8dXjCxnsLCHEWa/Ejn3xKEmGUdG60bqD7IosoO98Pn4USPnZXlr3ZCnnrJ431Vb68tOkDKaqOnEQvtvE50WE+xanwZ0ki+HHZqyB4un9Ru6/Pn0fI2s5Mk0FVQB9OlYmYw3JwAwN21RefNwzqyPpqdhGSnvJH7/1jkXAUOt93GTusq/ooXseww9UfApShFnQIKB3QZk+C+u8W1RGI0Zq4DxPjyRlohZwtNgVOdGY4WyYMFgfcKpv/NA9uahVqR4zOUvN/Iu7eAtIp3rLu4dwY3mMXFh0WIOnJvY17XKPJlNirF6poL2eEDY7G7/Tgv1E9X/VjTbPI6Ehm9e809yHwKwtg3xTSeqmZGIUVSwr3/wMK9LwXKBDJzQWk+NN/1ueKU0v7Nlff4hH7l8Vlb7TixzDkOXvEvKriRRQutWXVEw+XNqX8G3TjTH7k5qzALz9l5CDpxMGQYSexGEurdJtc7ylJColT8KISwEm7ogibW9u6Yy3f04J3HSsOPnvWbUW5p+PB3VgyNCMmg00zskiQBtxs8wyBHgA3TCBsN1+hgmn5YfpifRB0VNpG6HMzWOaHYuvxR6dCys+A1kv8jv7BlzLDlv4MzBsGSEWYOhCy6j18epq3+tLEamPXu0jqOW3vzE61KaZN/rP/2bWVMZPunYWmsJ086n4c2BVKyV/QXqE48Z8H/r3UVxDHY0FTBVBwa37sly1aeAJZvM8dmJfBYL0pAODzFSTNiHV6Apc1/XO5hWDnyFyLkwi1IuK3OgXK1ui1rT+QyQ/dWsGr6YlNipZS68FyQT+chSLkG89+KgHuW7at0ytu20x48m5REFILDWgcQYxowc+Wwu/rvfwMbGv3ih26RRtN1jIlqKQBWYFRBirRGNsrZTxmWKfU2k/I+mPuK55YojRgFa4X+FzPz5cIzdVz5Tj4lszr3Th4ODvY6U2AoaNUURYSsJtw4KgT7ddX+m4/qvzxq/IzzqaQpX6etg9TPvND8I8CuRoP6KB44x2GEjBrFu42cpNg="
  }
 }
