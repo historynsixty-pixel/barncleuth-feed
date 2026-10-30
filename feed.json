@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T14:57:18+11:00",
+ "generated": "2026-10-30T16:01:29+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -17,15 +17,15 @@
   },
   {
    "id": "publisher",
-   "state": "DONE",
-   "last_ts": "2026-10-30T14:34:06+11:00",
+   "state": "QUEUED",
+   "last_ts": "2026-10-30T15:41:11+11:00",
    "has_input": false,
    "next_run": null
   },
   {
    "id": "web-dev",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:38:32+11:00",
+   "last_ts": "2026-10-30T15:59:58+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -130,7 +130,7 @@
   {
    "id": "head-of-development",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:33:15+11:00",
+   "last_ts": "2026-10-30T15:34:36+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -144,7 +144,7 @@
   {
    "id": "reel-studio",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:39:24+11:00",
+   "last_ts": "2026-10-30T15:58:38+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -158,7 +158,7 @@
   {
    "id": "history-in-60-visuals",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:50:15+11:00",
+   "last_ts": "2026-10-30T15:53:53+11:00",
    "has_input": false,
    "next_run": null
   }
@@ -167,7 +167,7 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://youtube.com/shorts/k9Au8njkQqA",
+   "url": null,
    "ts": "2026-10-30T09:55:26+11:00",
    "views": null,
    "thumb": null,
@@ -197,10 +197,10 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
+   "url": null,
    "ts": "2026-10-29T22:54:59Z",
    "views": 2,
-   "thumb": "https://i.ytimg.com/vi/k9Au8njkQqA/hqdefault.jpg",
+   "thumb": null,
    "title": "Wash Hands Song for Toddlers | Nest Notes",
    "avg_view_pct": null
   },
@@ -227,20 +227,20 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=Fjbxd7j3doc",
+   "url": null,
    "ts": "2026-10-28T20:54:29Z",
    "views": 4,
-   "thumb": "https://i.ytimg.com/vi/Fjbxd7j3doc/hqdefault.jpg",
+   "thumb": null,
    "title": "Color Clap Song for Toddlers | Nest Notes",
    "avg_view_pct": null
   },
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=71tdEFq2TBU",
+   "url": null,
    "ts": "2026-10-28T20:21:32Z",
    "views": 2,
-   "thumb": "https://i.ytimg.com/vi/71tdEFq2TBU/hqdefault.jpg",
+   "thumb": null,
    "title": "Good Morning Song for Toddlers | Nest Notes",
    "avg_view_pct": null
   },
@@ -399,7 +399,7 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://youtube.com/shorts/k9Au8njkQqA",
+   "url": null,
    "ts": "2026-10-30T09:55:26+11:00",
    "state": "LIVE"
   },
@@ -420,7 +420,7 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
+   "url": null,
    "ts": "2026-10-29T22:54:59Z",
    "state": "LIVE"
   },
@@ -441,14 +441,14 @@
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=Fjbxd7j3doc",
+   "url": null,
    "ts": "2026-10-28T20:54:29Z",
    "state": "LIVE"
   },
   {
    "brand": "NN",
    "platform": "yt",
-   "url": "https://www.youtube.com/watch?v=71tdEFq2TBU",
+   "url": null,
    "ts": "2026-10-28T20:21:32Z",
    "state": "LIVE"
   },
@@ -556,12 +556,17 @@
    "url": "https://www.youtube.com/watch?v=RgTFyVBFQbA",
    "ts": "2026-10-21T01:00:23Z",
    "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "state": "UPCOMING",
+   "count": 3
   }
  ],
  "handoffs": [
   {
    "desk": "funnel-desk",
-   "brand": "adult-brands",
+   "brand": "other",
    "count": 1
   },
   {
@@ -573,6 +578,11 @@
    "desk": "publisher",
    "brand": "FU1",
    "count": 2
+  },
+  {
+   "desk": "reel-studio",
+   "brand": "FU1",
+   "count": 1
   }
  ],
  "approvals": [],
@@ -586,6 +596,11 @@
    "desk": "publisher",
    "brand": "FU1",
    "count": 2
+  },
+  {
+   "desk": "reel-studio",
+   "brand": "FU1",
+   "count": 1
   }
  ],
  "brands": [
@@ -792,10 +807,12 @@
  ],
  "counts": {
   "desks_by_state": {
-   "DONE": 23
+   "DONE": 22,
+   "QUEUED": 1
   },
-  "queue": 2,
-  "holds": 5
+  "queue": 5,
+  "holds": 6,
+  "asks_open": 0
  },
  "meta": {
   "brands": [
@@ -917,14 +934,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "X6Hn57RKYfQv6l6a6YViFQ==",
-  "iv": "myxGG+h9y2pP520f",
-  "data": "j1Nqm+NgW6yaPe7tp3djOx3V3QR7RGjXR25/P2wkJhbU+aKgmh+gkbUe5J3OjVPFS20/7kj6A77N3bgxEu78wOlTRUkZUCDIAeILGJpr2mgyN+sxw1jyvhwCt8YyXgVgnEXboZo6ffM0KrF/d/CnwyeX3lnSnH3QMjmtx5KOILL7qWS1KsDubD5IvLU92/kiteUQt3USWk12lg48zGW/GmaqGnvmiTaZ1qdSrhlk0po="
+  "salt": "BpR2owb8wYvhP+6hR/F7WA==",
+  "iv": "Eh4erC7qRVqnVePq",
+  "data": "Nwx4DBoetqFKkGFqJbL2dfReowm8DfeD4tNQVkeDkuwwTyrTOOAQBP/iV3T8+HxVyeTaTmPvDKEVwdmiAQ1Wn89AbBrwotKTmFUoAhCpqhZ+a3NPdwCr9VvWRhoMfxPC2aU4KjoJplmPyIXpODGJiFXs0Te6wHrFOdNYTaHqLHRBFYP05WTdhFqn6FtMCXtxFu+cGuYOw0L8NqWZacDeU0DxxhLFhawd/q+Ue80ByLU="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "gCIKU7P5kRCtkLKSHAqrJw==",
-  "iv": "PinvBTmx/JyQfdv9",
-  "data": "lBqfwaT4tndT7Ep0aApguf2bysaMAcrxeLCoBRDkRmnWV70fd0z0JeFhUrVY5+T0YPrhhxy9bBYeVmDoS5omxK1k9wRKUduMzwpBAQpT7bovz6bzTR06d8DvSlBnf+9fCznfBfR7rn98opzbRtfVZ5ef+OP9v37x7ej2MP6N/7/a0/LfYxr+NB8jZjW5riSBJUVHog8t+CjInSZ17BwvVxUsNwn2bewDwvpCjSidxX7KUHqwKGjEHkSOTwtK75R6zp6xR8+uWzltgo1N93h2XO3XUgWqbsgyoOhK/RrBfFyEhH6DlJc8LfaKh7Lnd13K0HgA3d+KLO8iUTeY2CEbXnYR7xBFzTz7THQ2g98pAyeetiH8k1KLaABOMrGP0GX1W1AV2ecS0jpNPAgddwrtO4/rmzKIQj/4I5/+S4TLLtKfBg6tj3nkCruz2U8KjZgJtgCa1C5vX1A7MexZlxJyFhka3fZuf36lc3df9WKwXgHmUmrcbCnMNL6U8JrIqnIjKTqXQqVSA4YTS6IkHvdMYloqxLUrxk7HOQ+hwYXejwI8MWops+v1V2aIFzJ1jFKxoDoEi+gibj5jErq0fZ636IDABtZN+PkrhSSqNcuK5Gl3bkdTZXpXwY7h0DxkNO8vvW1ri8LtcR0MnLImAE3fM//GSfrub6Y58IG/AGBiGJ8JFpVXrRAKtOfe5NK9s5SJB/MrSrwYwmmRtGzOcLpU5+FItr/SKtV8pMn2ikBUrjAo0XinEm3YCfLDNAgcft/iLIw767kKzvhGaIrYbnUS+lQXZA/DRvG5gAhBsEIkm50p5sMG96C86CJZVsLpRW98QZ4z3H0R+6FKSsiDpMwRgQOw6sItJjPUKmCuZKJR4NUlWl7OObo+8KMF2ZxwKt0fCxzuypwQnSvPixy2GU8AUuYmErDDZhoCRYtIEVqFYbEc5yQbWQiumhwk9zJXWxF9DhvrURLfem9B50SSYntx4Cxt9I48uSNgit416OHz39HbQiJicl6J4CseXs/vW/ni126Nd8ekpfiE4hD5AA62NQyYYI1D1ewuCxw16ejF7pHgtzw7vUdSYFKQ3bJgLZLsOYAph58Guh3iCtoTXII/oWJjj7Y="
+  "salt": "9K4gWMnDiGV4L/4JtHi86A==",
+  "iv": "WTg9nhIV9CsmK/YE",
+  "data": "6mHLmDQSxPA3yLxfH1ysk7ClfCEFd/05T6JvTOi3mvJ84YNxUEH+BWfTQk2FL4gjdROe+wmrz9VJq+34S0ow4eiDYed4++7pnHkNVJP29gZYj0YCBjl3sQbDChExxuM7jsKooD8ziNs0ZZhbAFmPF+x4JUbs21XAgnjNKNvjcvgFyqu70Pg4pQtvq8Se/GWtIDp24I07mKUsGK+keyOYj8gwWOUdtNSVCrq9QHzneHfI56wwvmv8niyHFM35jARYxhsOfktpjaD4b0TbxpwbxlqJ8pJKjQz1xTsOZrltNtwrP12ZdpxpCtVACV5rZhg3+clYGdC29xNDSEKTpAN9Mtll5wAYaub8wf02pSpPF5JTAFA8l997VqkaQ50kJ8t48ibzeUDqpadOzkbCnZmjudxK8BD6uivG3hL3+ONdBasrmESDbjoqJ4oDQnytXxQjc3ycd8WhnwvaOdvxtg9v359ia6ry16jFtLa0pKgykKig+SotzVPkSDI6l2KWOkozv3yAfgJapKL2h4AVco8uvIwWYGEUR3cqOmG/ppQVs4S8/kg6KRQkF2O2dM1KpIwjaJ6t3QS9VP/aaQliLl2O8O8t+Zopw4QdtqlAgSEgVCyLoA+mlbSA1NbTerkmdL9r5okL5qqeQZ/fF/mzntMG2ZEozc4wRPiJn6Wk4f2Xm65Cfq8nMPf6vKr6I9ykGvTkwKys/CbLIrVcN2iZJsM1j/iWm/krE0r/yYGOzLvXkzxkgxbyTCkPuJx+Ldoe36ht974RVr9Cj33IUVUcgv09JYDNAIayPR8GZ5vQNndPFw+kzErZgLv21kth+qWzq+EolvoiRYvyx7pUHJKbD2zPYbYPK63mMi/ym2cywDTFuQY5HAV37of3hyds6gg4S7F288YXrKECrwSc7Oa3Z5VtuSuUDQgbT3Ie74rJOqJE3NjMLv63ZMGYi5Puz65/DuY4D8bgNm8BS54trX1v7SpzvSC9tJ4v6PqNeVwKSj7YFQZbMigT0Vd/GqXOszJjXSxRnfp5Y7uNrZf38mT3r3mffIKeEVhihQqMvsVq8Nxq4TTkHMkhbP8LMCqNGksgn1alJJa6+WY/oQOhFOJ2tVfBqgIYbH0="
  }
 }
