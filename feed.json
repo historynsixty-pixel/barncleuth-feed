@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T16:01:29+11:00",
+ "generated": "2026-10-30T17:02:46+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -11,21 +11,21 @@
   {
    "id": "head-of-social-media",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:44:29+11:00",
+   "last_ts": "2026-10-30T16:59:45+11:00",
    "has_input": false,
    "next_run": null
   },
   {
    "id": "publisher",
-   "state": "QUEUED",
-   "last_ts": "2026-10-30T15:41:11+11:00",
+   "state": "LIVE",
+   "last_ts": "2026-10-30T16:47:10+11:00",
    "has_input": false,
    "next_run": null
   },
   {
    "id": "web-dev",
    "state": "DONE",
-   "last_ts": "2026-10-30T15:59:58+11:00",
+   "last_ts": "2026-10-30T16:36:28+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -67,7 +67,7 @@
   {
    "id": "creative-chief",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:31:30+11:00",
+   "last_ts": "2026-10-30T16:49:50+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -102,21 +102,21 @@
   {
    "id": "head-of-seo-aeo",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:47:23+11:00",
+   "last_ts": "2026-10-30T16:55:01+11:00",
    "has_input": false,
    "next_run": null
   },
   {
    "id": "graphics-design",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:47:31+11:00",
+   "last_ts": "2026-10-30T16:09:53+11:00",
    "has_input": false,
    "next_run": null
   },
   {
    "id": "head-of-retention",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:46:51+11:00",
+   "last_ts": "2026-10-30T16:52:29+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -130,7 +130,7 @@
   {
    "id": "head-of-development",
    "state": "DONE",
-   "last_ts": "2026-10-30T15:34:36+11:00",
+   "last_ts": "2026-10-30T16:11:20+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -144,7 +144,7 @@
   {
    "id": "reel-studio",
    "state": "DONE",
-   "last_ts": "2026-10-30T15:58:38+11:00",
+   "last_ts": "2026-10-30T16:59:52+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -158,12 +158,22 @@
   {
    "id": "history-in-60-visuals",
    "state": "DONE",
-   "last_ts": "2026-10-30T15:53:53+11:00",
+   "last_ts": "2026-10-30T16:16:05+11:00",
    "has_input": false,
    "next_run": null
   }
  ],
  "posts": [
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfG3PRPgi7s/",
+   "ts": "2026-10-30T16:47:10+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
   {
    "brand": "NN",
    "platform": "yt",
@@ -209,7 +219,7 @@
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
    "ts": "2026-10-29T21:00:12Z",
-   "views": 280,
+   "views": 282,
    "thumb": "https://i.ytimg.com/vi/ITy8zVcIxdQ/hqdefault.jpg",
    "title": "Alexander: Dead at Thirty-Two — Part 2 #shorts",
    "avg_view_pct": null
@@ -397,6 +407,13 @@
  ],
  "schedule": [
   {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfG3PRPgi7s/",
+   "ts": "2026-10-30T16:47:10+11:00",
+   "state": "LIVE"
+  },
+  {
    "brand": "NN",
    "platform": "yt",
    "url": null,
@@ -560,7 +577,7 @@
   {
    "brand": "HI60",
    "state": "UPCOMING",
-   "count": 3
+   "count": 2
   }
  ],
  "handoffs": [
@@ -570,6 +587,11 @@
    "count": 1
   },
   {
+   "desk": "head-of-social-media",
+   "brand": "HI60",
+   "count": 1
+  },
+  {
    "desk": "login-desk",
    "brand": "HI60",
    "count": 1
@@ -582,12 +604,17 @@
   {
    "desk": "reel-studio",
    "brand": "FU1",
-   "count": 1
+   "count": 4
   }
  ],
  "approvals": [],
  "blockers": [
   {
+   "desk": "head-of-social-media",
+   "brand": "HI60",
+   "count": 1
+  },
+  {
    "desk": "login-desk",
    "brand": "HI60",
    "count": 1
@@ -600,13 +627,13 @@
   {
    "desk": "reel-studio",
    "brand": "FU1",
-   "count": 1
+   "count": 4
   }
  ],
  "brands": [
   {
    "platform": "youtube",
-   "name": "Shift Fuel (@theshiftfuel)",
+   "name": "Shift Fuel",
    "views": 470,
    "likes": null,
    "subs": 4,
@@ -616,11 +643,11 @@
     0
    ],
    "videos": 12,
-   "stats_ts": "2026-10-30T14:57:16+11:00"
+   "stats_ts": "2026-10-30T16:17:44+11:00"
   },
   {
    "platform": "youtube",
-   "name": "History in 60 (@History_n60)",
+   "name": "History in 60",
    "views": 4480,
    "likes": null,
    "subs": 6,
@@ -630,11 +657,11 @@
     0
    ],
    "videos": 10,
-   "stats_ts": "2026-10-30T14:57:16+11:00"
+   "stats_ts": "2026-10-30T16:17:44+11:00"
   },
   {
    "platform": "youtube",
-   "name": "Five Until One (@five_until_one)",
+   "name": "Five Until One",
    "views": 2157,
    "likes": null,
    "subs": 5,
@@ -644,11 +671,11 @@
     5
    ],
    "videos": 5,
-   "stats_ts": "2026-10-30T14:57:16+11:00"
+   "stats_ts": "2026-10-30T16:17:44+11:00"
   },
   {
    "platform": "youtube",
-   "name": "Nest Notes (@Nest_Notes)",
+   "name": "Nest Notes",
    "views": 8,
    "likes": null,
    "subs": 2,
@@ -658,11 +685,11 @@
     5
    ],
    "videos": 3,
-   "stats_ts": "2026-10-30T14:57:16+11:00"
+   "stats_ts": "2026-10-30T16:17:44+11:00"
   },
   {
    "platform": "instagram",
-   "name": "Shift Fuel (@theshiftfuel) - unconfirmed",
+   "name": "Shift Fuel - unconfirmed",
    "views": 271,
    "likes": 0,
    "subs": 0,
@@ -674,7 +701,7 @@
   },
   {
    "platform": "instagram",
-   "name": "History in 60 (@historyn60) - unconfirmed",
+   "name": "History in 60 - unconfirmed",
    "views": 2049,
    "likes": 0,
    "subs": 0,
@@ -686,7 +713,7 @@
   },
   {
    "platform": "instagram",
-   "name": "Five Until One (@fiveuntilone) - unconfirmed",
+   "name": "Five Until One - unconfirmed",
    "views": 0,
    "likes": 0,
    "subs": 0,
@@ -758,7 +785,7 @@
   },
   {
    "platform": "tiktok",
-   "name": "Shift Fuel (@shift_fuel) - unconfirmed",
+   "name": "Shift Fuel - unconfirmed",
    "views": 0,
    "likes": 0,
    "subs": 0,
@@ -770,7 +797,7 @@
   },
   {
    "platform": "tiktok",
-   "name": "History in 60 (@history_n_60s) - unconfirmed",
+   "name": "History in 60 - unconfirmed",
    "views": 0,
    "likes": 0,
    "subs": 0,
@@ -808,10 +835,10 @@
  "counts": {
   "desks_by_state": {
    "DONE": 22,
-   "QUEUED": 1
+   "LIVE": 1
   },
-  "queue": 5,
-  "holds": 6,
+  "queue": 4,
+  "holds": 10,
   "asks_open": 0
  },
  "meta": {
@@ -934,14 +961,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "BpR2owb8wYvhP+6hR/F7WA==",
-  "iv": "Eh4erC7qRVqnVePq",
-  "data": "Nwx4DBoetqFKkGFqJbL2dfReowm8DfeD4tNQVkeDkuwwTyrTOOAQBP/iV3T8+HxVyeTaTmPvDKEVwdmiAQ1Wn89AbBrwotKTmFUoAhCpqhZ+a3NPdwCr9VvWRhoMfxPC2aU4KjoJplmPyIXpODGJiFXs0Te6wHrFOdNYTaHqLHRBFYP05WTdhFqn6FtMCXtxFu+cGuYOw0L8NqWZacDeU0DxxhLFhawd/q+Ue80ByLU="
+  "salt": "Hv2Gb6rTAg9BH9/aJBnjeA==",
+  "iv": "V2B5r/sKSSjpBzHb",
+  "data": "fQ4HrlE216cZeB06hN4tqM6QPUtSv9PMbnpDHi0+BQembXKIwBgW6uiSTZyM9mitTO3SJW3vqzkq54z0LC6MD3BqqDGV3EDYLdZjslvvuCdRTbjkkdpsFEY991GrzDLuAYPxzRnUyM8i8f6vUSDtUqvQ3K2rc5cLFHCNmZOiG78aeRqLCkSXxsEYdkIiAyBJOi4dUTVZUaxOsxgaCojyP+PiGSHz0JTUZaoXSkk8grAv26IEcdazHzTuy8nTnn9HnQ=="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "9K4gWMnDiGV4L/4JtHi86A==",
-  "iv": "WTg9nhIV9CsmK/YE",
-  "data": "6mHLmDQSxPA3yLxfH1ysk7ClfCEFd/05T6JvTOi3mvJ84YNxUEH+BWfTQk2FL4gjdROe+wmrz9VJq+34S0ow4eiDYed4++7pnHkNVJP29gZYj0YCBjl3sQbDChExxuM7jsKooD8ziNs0ZZhbAFmPF+x4JUbs21XAgnjNKNvjcvgFyqu70Pg4pQtvq8Se/GWtIDp24I07mKUsGK+keyOYj8gwWOUdtNSVCrq9QHzneHfI56wwvmv8niyHFM35jARYxhsOfktpjaD4b0TbxpwbxlqJ8pJKjQz1xTsOZrltNtwrP12ZdpxpCtVACV5rZhg3+clYGdC29xNDSEKTpAN9Mtll5wAYaub8wf02pSpPF5JTAFA8l997VqkaQ50kJ8t48ibzeUDqpadOzkbCnZmjudxK8BD6uivG3hL3+ONdBasrmESDbjoqJ4oDQnytXxQjc3ycd8WhnwvaOdvxtg9v359ia6ry16jFtLa0pKgykKig+SotzVPkSDI6l2KWOkozv3yAfgJapKL2h4AVco8uvIwWYGEUR3cqOmG/ppQVs4S8/kg6KRQkF2O2dM1KpIwjaJ6t3QS9VP/aaQliLl2O8O8t+Zopw4QdtqlAgSEgVCyLoA+mlbSA1NbTerkmdL9r5okL5qqeQZ/fF/mzntMG2ZEozc4wRPiJn6Wk4f2Xm65Cfq8nMPf6vKr6I9ykGvTkwKys/CbLIrVcN2iZJsM1j/iWm/krE0r/yYGOzLvXkzxkgxbyTCkPuJx+Ldoe36ht974RVr9Cj33IUVUcgv09JYDNAIayPR8GZ5vQNndPFw+kzErZgLv21kth+qWzq+EolvoiRYvyx7pUHJKbD2zPYbYPK63mMi/ym2cywDTFuQY5HAV37of3hyds6gg4S7F288YXrKECrwSc7Oa3Z5VtuSuUDQgbT3Ie74rJOqJE3NjMLv63ZMGYi5Puz65/DuY4D8bgNm8BS54trX1v7SpzvSC9tJ4v6PqNeVwKSj7YFQZbMigT0Vd/GqXOszJjXSxRnfp5Y7uNrZf38mT3r3mffIKeEVhihQqMvsVq8Nxq4TTkHMkhbP8LMCqNGksgn1alJJa6+WY/oQOhFOJ2tVfBqgIYbH0="
+  "salt": "Ed/IORwozvQ6okNannxpCg==",
+  "iv": "irkrS3n090zL/jCE",
+  "data": "SNnAbgE81lf7Uew6k58JPPBmAbKjLUK2B0EhXLH7iMERiPiS+gwn3otFuYPMj6yVby8n7QkGfLEQVZlnChBYcyJKJ2g/MRf7v4d8qRXJWFuI4O5WROwUo/B5camnpHgVHW8wvts8MU/PSGEnd802sNIFH6q+ua3cVcSFFbjE1GPR/AWVR3IY/h+/mXUuy65GHhDBARen2CVrwVScwBlECGPw0Y5Mo1DBCJeocnzgSmedW44jL4BX0aE/grIUjKYfLluC/5sQ84zSf7eiLIlywCWOSPpRyUjJ7jUFulo16BuCoU3eoMqGT4C7z5imyMtSWk6Pjsolml/oGkGLlwxZbiLCrETTtokp6P/W0WcfF72yu6+nFKZcCy0rV2YcserAB+99TGhDj8CfZwo+DUpmuYaRvXZPKr5SOyPpyRUSCCyx5Fnu81lVVdl8nPaIPAQspLvuQDTs3tEUxVE0rb7tze54Dtz6ttpHPK9jX6riyz/BW+/RD1+kAAGUiOI5YCxlinvfSknqRgKphb4obXEt2eoMUMwq5f21vIObB0dpuOlHckHa11sxlNBsciXhdIk/G4aqTfu6JxbISNWlYl12/TpZ8zc9guFyEo015kPdt+RL7e2mvWZodbUcTe7/esKk36U/KzfzusN4RfGiDlSZMlCARyMfXBIK1x8mQMN+d+nptB/18GL1X5iQkA98Fff6fQShxfeiYyx07PgHHLQtdWPwLdfnS3P0XNMHAYvnYak9MN2p9QbVnKzTlK9TUTCSsbegs7tW7sj9PMdRrJCAaVbqwe9zRWdjWTQtMoRjcjO3LcCCKciWM5FDGYVv4enoE9itQQewYhCq9hlUKnr4AvyCGaGWJt56IedF+bqjIS2IfG+ovONvr6NWNlr8sWr5OTgVNFZasfj4uZM9g1xqLkrrIUz54OIEQFvOa+Ktc6WdvMAx5CDCKoXes9umPduYeuXwsWBWHvf4sfFfN06osVw19wtkNaQ3Cr68eYeTaaBsOKkjMCdsDACxc+6QOQqn/0H0OvCMKMsZbOZjHPXUD3WuGbp6NYjWgOY7cf1I2aUc6llo/OWXeISBhdJOnqX5uoJ+jT1ZCsXBva7lsGJgfI3VEsI="
  }
 }
