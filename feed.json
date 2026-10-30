@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T22:16:24+11:00",
+ "generated": "2026-10-31T07:19:08+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -11,7 +11,7 @@
   {
    "id": "head-of-social-media",
    "state": "DONE",
-   "last_ts": "2026-10-30T19:37:05+11:00",
+   "last_ts": "2026-10-31T07:04:19+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -25,7 +25,7 @@
   {
    "id": "web-dev",
    "state": "DONE",
-   "last_ts": "2026-10-30T20:50:47+11:00",
+   "last_ts": "2026-10-31T07:19:08+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -109,7 +109,7 @@
   {
    "id": "graphics-design",
    "state": "DONE",
-   "last_ts": "2026-10-30T20:26:51+11:00",
+   "last_ts": "2026-10-30T22:52:27+11:00",
    "has_input": false,
    "next_run": null
   },
@@ -159,6 +159,20 @@
    "id": "history-in-60-visuals",
    "state": "DONE",
    "last_ts": "2026-10-30T16:16:05+11:00",
+   "has_input": false,
+   "next_run": null
+  },
+  {
+   "id": "night-shift-tales",
+   "state": "HOLD",
+   "last_ts": "2026-10-31T07:04:09+11:00",
+   "has_input": false,
+   "next_run": null
+  },
+  {
+   "id": "dread-visuals",
+   "state": "HOLD",
+   "last_ts": "2026-10-31T07:04:38+11:00",
    "has_input": false,
    "next_run": null
   }
@@ -269,7 +283,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=hLz8NHNMP_U",
    "ts": "2026-10-30T07:14:46Z",
-   "views": 4,
+   "views": 10,
    "thumb": "https://i.ytimg.com/vi/hLz8NHNMP_U/hqdefault.jpg",
    "title": "5 movie last stands that still break people #shorts",
    "avg_view_pct": null
@@ -279,7 +293,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=DfJsKzbwnIY",
    "ts": "2026-10-30T05:44:30Z",
-   "views": 343,
+   "views": 628,
    "thumb": "https://i.ytimg.com/vi/DfJsKzbwnIY/hqdefault.jpg",
    "title": "Julius Caesar: He Raised His Ransom — Part 1 #shorts",
    "avg_view_pct": null
@@ -289,7 +303,7 @@
    "platform": "youtube",
    "url": null,
    "ts": "2026-10-29T22:54:59Z",
-   "views": 2,
+   "views": 1,
    "thumb": null,
    "title": "Wash Hands Song for Toddlers | Nest Notes",
    "avg_view_pct": null
@@ -299,7 +313,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
    "ts": "2026-10-29T21:00:12Z",
-   "views": 284,
+   "views": 288,
    "thumb": "https://i.ytimg.com/vi/ITy8zVcIxdQ/hqdefault.jpg",
    "title": "Alexander: Dead at Thirty-Two — Part 2 #shorts",
    "avg_view_pct": null
@@ -309,7 +323,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
    "ts": "2026-10-29T07:03:50Z",
-   "views": 106,
+   "views": 114,
    "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg",
    "title": "5 movie fight scenes that still hit",
    "avg_view_pct": null
@@ -359,7 +373,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=hJovradrEQs",
    "ts": "2026-10-28T12:36:54Z",
-   "views": 50,
+   "views": 51,
    "thumb": "https://i.ytimg.com/vi/hJovradrEQs/hqdefault.jpg",
    "title": "Overnight locksmith. Tonight I lock it from outside. #Shorts",
    "avg_view_pct": null
@@ -389,7 +403,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=a0mzXaF_zPo",
    "ts": "2026-10-25T21:00:12Z",
-   "views": 1935,
+   "views": 1938,
    "thumb": "https://i.ytimg.com/vi/a0mzXaF_zPo/hqdefault.jpg",
    "title": "Vlad the Impaler: Was Dracula Real? #shorts",
    "avg_view_pct": null
@@ -782,7 +796,7 @@
     0
    ],
    "videos": 12,
-   "stats_ts": "2026-10-30T22:16:23+11:00"
+   "stats_ts": "2026-10-31T07:18:43+11:00"
   },
   {
    "platform": "youtube",
@@ -796,7 +810,7 @@
     0
    ],
    "videos": 11,
-   "stats_ts": "2026-10-30T22:16:23+11:00"
+   "stats_ts": "2026-10-31T07:18:43+11:00"
   },
   {
    "platform": "youtube",
@@ -810,12 +824,12 @@
     5
    ],
    "videos": 6,
-   "stats_ts": "2026-10-30T22:16:23+11:00"
+   "stats_ts": "2026-10-31T07:18:43+11:00"
   },
   {
    "platform": "youtube",
    "name": "Nest Notes (YouTube)",
-   "views": 8,
+   "views": 6,
    "likes": null,
    "subs": 2,
    "history": [
@@ -824,14 +838,14 @@
     5
    ],
    "videos": 3,
-   "stats_ts": "2026-10-30T22:16:23+11:00"
+   "stats_ts": "2026-10-31T07:18:43+11:00"
   },
   {
    "platform": "instagram",
    "name": "Shift Fuel (Instagram)",
    "views": 271,
-   "likes": 0,
-   "subs": 0,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -842,8 +856,8 @@
    "platform": "instagram",
    "name": "History in 60 (Instagram)",
    "views": 2049,
-   "likes": 0,
-   "subs": 0,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -853,9 +867,9 @@
   {
    "platform": "instagram",
    "name": "Five Until One (Instagram)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -865,9 +879,9 @@
   {
    "platform": "instagram",
    "name": "Nest Notes (Instagram)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -877,9 +891,9 @@
   {
    "platform": "facebook",
    "name": "Shift Fuel (Facebook)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -889,9 +903,9 @@
   {
    "platform": "facebook",
    "name": "History in 60 (Facebook)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -901,9 +915,9 @@
   {
    "platform": "facebook",
    "name": "Five Until One (Facebook)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -913,9 +927,9 @@
   {
    "platform": "facebook",
    "name": "Nest Notes (Facebook)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -925,9 +939,9 @@
   {
    "platform": "tiktok",
    "name": "Shift Fuel (TikTok)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -937,9 +951,9 @@
   {
    "platform": "tiktok",
    "name": "History in 60 (TikTok)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -949,9 +963,9 @@
   {
    "platform": "tiktok",
    "name": "Five Until One (TikTok)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -961,9 +975,9 @@
   {
    "platform": "tiktok",
    "name": "Nest Notes (TikTok)",
-   "views": 0,
-   "likes": 0,
-   "subs": 0,
+   "views": null,
+   "likes": null,
+   "subs": null,
    "history": [
     0,
     0,
@@ -974,10 +988,11 @@
  "counts": {
   "desks_by_state": {
    "DONE": 22,
-   "LIVE": 1
+   "LIVE": 1,
+   "HOLD": 2
   },
-  "queue": 12,
-  "holds": 13,
+  "queue": 13,
+  "holds": 14,
   "asks_open": 0
  },
  "meta": {
@@ -1096,20 +1111,21 @@
    },
    {
     "id": "web-dev",
-    "name": "Web Dev"
+    "name": "Web Dev",
+    "wake": "on-demand"
    }
   ]
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "aCBkx7PoNnBOOdYPTod/Yg==",
-  "iv": "QGK6yYFSezroQUol",
-  "data": "SDc5llNafGLPhfJGckQ0WGyaglMDxaEo9LZiEKw4jlBeyj6GSciWtFMa0sM6pxy75VibYRb8H4w7XzJaZ1F2o/6elT3geAQ4o3kjCsFKE0XqabnPymuHAl3tv9NNdzZ7eby3fwAT7731gGItIjDRtzCe37UCA/6MSbJf3F/3pqbpmmedbx9VfLs/wQd1BylYM7Qi4/uxCOQ/SNJk1j70kWCAeCikbHVSCp2NWGWSAyWyKeQFBVKvL72s41Fin4H7vQ=="
+  "salt": "+JpbAXdlCh3oGut5QpfWLg==",
+  "iv": "f/o5f73jxA5yA9fy",
+  "data": "2ZVUCBhhloixidAn3LBwl1DKGp8k4QG7TkK5mg7nzKD9iOR6xgDyJMAkPOsJbiTd2GZajB6SCvB7vMkf1anQYv1IPPPqgvJNqFGx6RegFNTxEbhAh9A9ZpMLoVsmRPiv7J3VzqqaX/3H8rNRJgEUkmao++PV/opRY7BNNE5rpzUYjQFkWskP+4Z/reFp1skADKXy+zV179AVg5pM2NjrOuBdJAyzC6YsVM2aelIGSXSlMNIIxxpvp7InwpsM9D8LtQ=="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "TPPfcjEmejRAcCPWPK/b9A==",
-  "iv": "gJ3Laf9+FSmj9jjD",
-  "data": "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"
+  "salt": "mEBo2TJPYdoxv95fjF8Uiw==",
+  "iv": "mPKDmK/IZ2wTJmKL",
+  "data": "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"
  }
 }
