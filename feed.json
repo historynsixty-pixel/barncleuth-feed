@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T12:49:46+11:00",
+ "generated": "2026-10-30T13:56:53+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -107,7 +107,7 @@
    "platform": "yt",
    "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
    "ts": "2026-10-29T21:00:12Z",
-   "views": 238,
+   "views": 235,
    "thumb": "https://i.ytimg.com/vi/ITy8zVcIxdQ/hqdefault.jpg",
    "title": "Alexander: Dead at Thirty-Two — Part 2 #shorts"
   },
@@ -480,7 +480,7 @@
     0
    ],
    "videos": 12,
-   "stats_ts": "2026-10-30T12:49:44+11:00"
+   "stats_ts": "2026-10-30T13:56:52+11:00"
   },
   {
    "platform": "youtube",
@@ -494,7 +494,7 @@
     0
    ],
    "videos": 10,
-   "stats_ts": "2026-10-30T12:49:44+11:00"
+   "stats_ts": "2026-10-30T13:56:52+11:00"
   },
   {
    "platform": "youtube",
@@ -508,7 +508,7 @@
     5
    ],
    "videos": 5,
-   "stats_ts": "2026-10-30T12:49:44+11:00"
+   "stats_ts": "2026-10-30T13:56:52+11:00"
   },
   {
    "platform": "youtube",
@@ -522,7 +522,7 @@
     5
    ],
    "videos": 3,
-   "stats_ts": "2026-10-30T12:49:44+11:00"
+   "stats_ts": "2026-10-30T13:56:52+11:00"
   },
   {
    "platform": "instagram",
@@ -681,14 +681,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "azoLJYUnO7Tva7SBw3tlig==",
-  "iv": "CTc+68GxBL3HmxUs",
-  "data": "pibQFW2G8BSNqITvzw7TAty62i4Vw4JvPxkSefCbJGT0ja7bcf0MKhafUNd6omwkPpsiw4pVzgYKzTF87d68+rqv4jTC0E5Wkqhf+BFn52ThTyBnuVv9I/Socpc3x3blM127beo25wQlTBT3jjQRZmoNMETPzE37brBN5Nvakh8fQqajck6ImpnJURrac04MMJnUM3e5Q5dT3x+qNqDJtngfYSoTVw3s2D49cUBAJoQ="
+  "salt": "T3qxhFZyS3f+LhrctGMA/g==",
+  "iv": "XltppOailJb1sSSu",
+  "data": "OnPdeOoXr5X6YgP8HpTYNDK/M0vHzFNRahlS1ttG5gsU3c0xRzFE5nThgCxSSrq6Dq6jGis1NDMzWfTW3XkoFiEGEVv02RpGA1CoCH+Ai62D/4alhFTEbw+wgSgDPvxzrhyehbECF8CVVjoSmydiZzihA6T0RJG3E075j83X2zC1xuvAiUzBzlYOOBuEJbcJTCh62y+YqAknXd6B4+aApNQKHvwOPS4Tdn4iLy5hnuk="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "FX4PgcozNTt4kLMjZOzyLw==",
-  "iv": "MJylIFxj0bs9KLc4",
-  "data": "xGeUyntoyzQgExEZSyFmuIDJLpkYDToXIZEbq6R2NifMCHW22S4kysHwXBBEKzdlhEbUBdADlU9ppiF4qJNIef+gccl2ki8dXjCxnsLCHEWa/Ejn3xKEmGUdG60bqD7IosoO98Pn4USPnZXlr3ZCnnrJ431Vb68tOkDKaqOnEQvtvE50WE+xanwZ0ki+HHZqyB4un9Ru6/Pn0fI2s5Mk0FVQB9OlYmYw3JwAwN21RefNwzqyPpqdhGSnvJH7/1jkXAUOt93GTusq/ooXseww9UfApShFnQIKB3QZk+C+u8W1RGI0Zq4DxPjyRlohZwtNgVOdGY4WyYMFgfcKpv/NA9uahVqR4zOUvN/Iu7eAtIp3rLu4dwY3mMXFh0WIOnJvY17XKPJlNirF6poL2eEDY7G7/Tgv1E9X/VjTbPI6Ehm9e809yHwKwtg3xTSeqmZGIUVSwr3/wMK9LwXKBDJzQWk+NN/1ueKU0v7Nlff4hH7l8Vlb7TixzDkOXvEvKriRRQutWXVEw+XNqX8G3TjTH7k5qzALz9l5CDpxMGQYSexGEurdJtc7ylJColT8KISwEm7ogibW9u6Yy3f04J3HSsOPnvWbUW5p+PB3VgyNCMmg00zskiQBtxs8wyBHgA3TCBsN1+hgmn5YfpifRB0VNpG6HMzWOaHYuvxR6dCys+A1kv8jv7BlzLDlv4MzBsGSEWYOhCy6j18epq3+tLEamPXu0jqOW3vzE61KaZN/rP/2bWVMZPunYWmsJ086n4c2BVKyV/QXqE48Z8H/r3UVxDHY0FTBVBwa37sly1aeAJZvM8dmJfBYL0pAODzFSTNiHV6Apc1/XO5hWDnyFyLkwi1IuK3OgXK1ui1rT+QyQ/dWsGr6YlNipZS68FyQT+chSLkG89+KgHuW7at0ytu20x48m5REFILDWgcQYxowc+Wwu/rvfwMbGv3ih26RRtN1jIlqKQBWYFRBirRGNsrZTxmWKfU2k/I+mPuK55YojRgFa4X+FzPz5cIzdVz5Tj4lszr3Th4ODvY6U2AoaNUURYSsJtw4KgT7ddX+m4/qvzxq/IzzqaQpX6etg9TPvND8I8CuRoP6KB44x2GEjBrFu42cpNg="
+  "salt": "iLdIMDQ22/01PDjSXtIBfw==",
+  "iv": "U/ORsdXlY5f3b3sB",
+  "data": "iEkIBhOjb0NooO7Gk82osSiK73hETQ7oq1gkmGcb9TtcFyUrROx2b35sWoYiM+UCCgTYUO+Khp2iUOTgmqNXJTEhtm+7TZdlL4bct/cQNZbEZERx9nfY1/I+WxcGXhdAWrNoDI/cJ1/UNRCwGnYQ0dB3ufwYl2o4nMn6QLenWSCBo69qQlZTHUzyY2lWy6O2u2WBFMeJjwWEXB4ImmYsWqlciBzPtuOH3/ssYqbF3QRAA7Xx7RD+gn0xknnRhb3QdJV9Tb+xTetoUKFwNeK/A6K0twEXo6GG6AlXT7Unm5jVIOsCefb2EMeZ5i8vcjP320QqBrBqrFLclGjkqKk3ENvoQjxwqvn9m6UMVOAxSOfA/YbgbH6FsibGvmSiq6Rb2re6ZLaiFazrot6O6Kfspo5JvPY2vF88a9yiLZHw7X8cBB39UBcdzbB8BA8zYw/DXSdiQgVWfmKdguUytUzs0kIusPsgscH94Yp7Nf79FuKJsD8nNUnlt+XSvn9X8/hNBOl+wlD0VmL+qQvuZM6t3va7t5ZwGilPcVdWD71B11gc2FpDP44Q8S5H6rsBzTRO9wFeKPbUh1HVzJj4zUwXXgtmV6vLkkL5QPUVWIMgynWZy8gnhN/Kn+HPlHDyTg/eN1ybpV58pmTK1mhPtRQ8dy1drloaeWd0Yciua3gzPXFzBSbfCTFTOHYOiGq15hDzg7OMWp8j8LDCDW72uuVCi4zzZm101udZ0KsQ0w9oxGztxg2OqlMtMCssbSRkR0+iqbqhjDjgRBddUEmPk2rJGBLULOwHjAdhyd/Zokqbx3AxwjS0AesruaOY8nSd5ioE7CcNTi77nZgMkWTuzyyDkYBOVmPP1gDF3InwxEtHQWLWir+92160G/SSWnn4HMGbr+4YNoyRHSjpNGgoa118sRthxROx2imQ4YKWTnIyv08+B0QozwcRSesZE24hTXbO8MU3ynHEriz200dEz3CiznELNslwl85s2iSEc9hpbR2qMqHZSxoA9uvTOTh7rXbmaduqb4kR2lrAJxF/69p1rL5g45v+itrWuVhtaF68Kn2HO5X4cJ+CoPN1I5EwBRLMeh3jvLYcZ6TbAwuP6EEL5SgJKUI="
  }
 }
