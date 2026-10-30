@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:30:56+11:00",
+ "generated": "2026-10-30T11:39:44+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -89,6 +89,166 @@
    "ts": "2026-10-30T08:15:02+11:00",
    "views": null,
    "thumb": null
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
+   "ts": "2026-10-29T22:54:59Z",
+   "views": 2,
+   "thumb": "https://i.ytimg.com/vi/k9Au8njkQqA/hqdefault.jpg"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
+   "ts": "2026-10-29T07:03:50Z",
+   "views": 63,
+   "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg"
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=Fjbxd7j3doc",
+   "ts": "2026-10-28T20:54:29Z",
+   "views": 3,
+   "thumb": "https://i.ytimg.com/vi/Fjbxd7j3doc/hqdefault.jpg"
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=71tdEFq2TBU",
+   "ts": "2026-10-28T20:21:32Z",
+   "views": 2,
+   "thumb": "https://i.ytimg.com/vi/71tdEFq2TBU/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=RKLkzVHak4U",
+   "ts": "2026-10-28T12:39:11Z",
+   "views": 248,
+   "thumb": "https://i.ytimg.com/vi/RKLkzVHak4U/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=AkRGZ1_RnjQ",
+   "ts": "2026-10-28T12:37:35Z",
+   "views": 25,
+   "thumb": "https://i.ytimg.com/vi/AkRGZ1_RnjQ/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=hJovradrEQs",
+   "ts": "2026-10-28T12:36:54Z",
+   "views": 49,
+   "thumb": "https://i.ytimg.com/vi/hJovradrEQs/hqdefault.jpg"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=qBTaPoF2xJ8",
+   "ts": "2026-10-27T08:00:10Z",
+   "views": 505,
+   "thumb": "https://i.ytimg.com/vi/qBTaPoF2xJ8/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=u7oHfRR_jao",
+   "ts": "2026-10-26T21:00:19Z",
+   "views": 259,
+   "thumb": "https://i.ytimg.com/vi/u7oHfRR_jao/hqdefault.jpg"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=BKGDhfBLmdE",
+   "ts": "2026-10-26T04:18:13Z",
+   "views": 572,
+   "thumb": "https://i.ytimg.com/vi/BKGDhfBLmdE/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=a0mzXaF_zPo",
+   "ts": "2026-10-25T21:00:12Z",
+   "views": 1934,
+   "thumb": "https://i.ytimg.com/vi/a0mzXaF_zPo/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=9UsQ_sWz-Ng",
+   "ts": "2026-10-25T09:30:15Z",
+   "views": 337,
+   "thumb": "https://i.ytimg.com/vi/9UsQ_sWz-Ng/hqdefault.jpg"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=KFDdHCkAVck",
+   "ts": "2026-10-25T05:07:48Z",
+   "views": 16,
+   "thumb": "https://i.ytimg.com/vi/KFDdHCkAVck/hqdefault.jpg"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=akIYGRUms_k",
+   "ts": "2026-10-25T02:04:37Z",
+   "views": 1070,
+   "thumb": "https://i.ytimg.com/vi/akIYGRUms_k/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=5UnbfDHOxik",
+   "ts": "2026-10-24T21:00:23Z",
+   "views": 1202,
+   "thumb": "https://i.ytimg.com/vi/5UnbfDHOxik/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=BZ3UBCaA8-c",
+   "ts": "2026-10-24T07:22:55Z",
+   "views": 212,
+   "thumb": "https://i.ytimg.com/vi/BZ3UBCaA8-c/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=fAfZ3lWjtAg",
+   "ts": "2026-10-24T01:00:20Z",
+   "views": 62,
+   "thumb": "https://i.ytimg.com/vi/fAfZ3lWjtAg/hqdefault.jpg"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=w9UoV2CuK8c",
+   "ts": "2026-10-23T21:55:46Z",
+   "views": 389,
+   "thumb": "https://i.ytimg.com/vi/w9UoV2CuK8c/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=7KtkAJejhD0",
+   "ts": "2026-10-23T01:00:20Z",
+   "views": 14,
+   "thumb": "https://i.ytimg.com/vi/7KtkAJejhD0/hqdefault.jpg"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=RgTFyVBFQbA",
+   "ts": "2026-10-21T01:00:23Z",
+   "views": 46,
+   "thumb": "https://i.ytimg.com/vi/RgTFyVBFQbA/hqdefault.jpg"
   }
  ],
  "schedule": [
@@ -111,6 +271,146 @@
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DfF8ifCI_Mg/",
    "ts": "2026-10-30T08:15:02+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=k9Au8njkQqA",
+   "ts": "2026-10-29T22:54:59Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
+   "ts": "2026-10-29T07:03:50Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=Fjbxd7j3doc",
+   "ts": "2026-10-28T20:54:29Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "NN",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=71tdEFq2TBU",
+   "ts": "2026-10-28T20:21:32Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=RKLkzVHak4U",
+   "ts": "2026-10-28T12:39:11Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=AkRGZ1_RnjQ",
+   "ts": "2026-10-28T12:37:35Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=hJovradrEQs",
+   "ts": "2026-10-28T12:36:54Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=qBTaPoF2xJ8",
+   "ts": "2026-10-27T08:00:10Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=u7oHfRR_jao",
+   "ts": "2026-10-26T21:00:19Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=BKGDhfBLmdE",
+   "ts": "2026-10-26T04:18:13Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=a0mzXaF_zPo",
+   "ts": "2026-10-25T21:00:12Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=9UsQ_sWz-Ng",
+   "ts": "2026-10-25T09:30:15Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=KFDdHCkAVck",
+   "ts": "2026-10-25T05:07:48Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "FU1",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=akIYGRUms_k",
+   "ts": "2026-10-25T02:04:37Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=5UnbfDHOxik",
+   "ts": "2026-10-24T21:00:23Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=BZ3UBCaA8-c",
+   "ts": "2026-10-24T07:22:55Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=fAfZ3lWjtAg",
+   "ts": "2026-10-24T01:00:20Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=w9UoV2CuK8c",
+   "ts": "2026-10-23T21:55:46Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=7KtkAJejhD0",
+   "ts": "2026-10-23T01:00:20Z",
+   "state": "LIVE"
+  },
+  {
+   "brand": "SF",
+   "platform": "yt",
+   "url": "https://www.youtube.com/watch?v=RgTFyVBFQbA",
+   "ts": "2026-10-21T01:00:23Z",
    "state": "LIVE"
   }
  ],
@@ -157,51 +457,59 @@
  "brands": [
   {
    "platform": "youtube",
-   "name": "Shift Fuel (@theshiftfuel) - unconfirmed",
-   "views": 134,
-   "likes": 0,
-   "subs": 0,
+   "name": "Shift Fuel (@theshiftfuel)",
+   "views": 470,
+   "likes": null,
+   "subs": 4,
    "history": [
     0,
     0,
     0
-   ]
+   ],
+   "videos": 12,
+   "stats_ts": "2026-10-30T11:39:26+11:00"
   },
   {
    "platform": "youtube",
-   "name": "History in 60 (@History_n60) - unconfirmed",
-   "views": 3630,
-   "likes": 0,
-   "subs": 0,
+   "name": "History in 60 (@History_n60)",
+   "views": 4480,
+   "likes": null,
+   "subs": 6,
    "history": [
     0,
     0,
     0
-   ]
+   ],
+   "videos": 10,
+   "stats_ts": "2026-10-30T11:39:26+11:00"
   },
   {
    "platform": "youtube",
    "name": "Five Until One (@five_until_one)",
-   "views": 1431,
-   "likes": 0,
+   "views": 2157,
+   "likes": null,
    "subs": 5,
    "history": [
     2,
     2,
     5
-   ]
+   ],
+   "videos": 5,
+   "stats_ts": "2026-10-30T11:39:26+11:00"
   },
   {
    "platform": "youtube",
    "name": "Nest Notes (@Nest_Notes)",
-   "views": 0,
-   "likes": 0,
-   "subs": 5,
+   "views": 8,
+   "likes": null,
+   "subs": 2,
    "history": [
     2,
     2,
     5
-   ]
+   ],
+   "videos": 3,
+   "stats_ts": "2026-10-30T11:39:26+11:00"
   },
   {
    "platform": "instagram",
@@ -360,14 +668,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "q+pBLQa2SDkMVcxRUM9M3w==",
-  "iv": "6p4kTQatfi3SR94z",
-  "data": "n99q3OFCjz4GTSxw1ZcvH8FMk5xPKm6On3bBGXD9qVlTRYvl/9DhxafU04WSLvMyQPjy18wK8qA50+7PsTjPFqP0uWLCJoIoxPASgXgh6VmV5RuSP1A8hQAYvNnTyijJ1Bv4ty5N8N/8k7PN059HA8oRWEnkZuNNVwhzuxPt7I2AiB0wtFjM3iXU4RImFOkZW4yBKeOH2c2Lu5hSLrXRFjcbfgQxL+ieSkAGWO5Xa9A="
+  "salt": "ccT6PUZGVgkbSW8Ehhs7GA==",
+  "iv": "/0izfH/whRxIWtyU",
+  "data": "YdhYTf0teE4sFQe1sliBlgFJPwZTOT6qDnYVJz16Xmc+bQm1ck6usJ3JIkp9UYZuooA4Gh0PCW5iiSnVTTSGLl3Wsgp2Oegzsp9KE5cTlevkuaL9dy5QmBe7YnbopEb86HXKb8CSRbnP4azs5TQgdeEKNFeYQ+2NFPOIZAP9rhxUaeeJBT2ekFOmfzCwixKa0UDoN0Ekm1byO++KB7s67A11Abqdt3ChSq9jksro0A4="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "CxCA2UB2YWmySxCIpmMzmA==",
-  "iv": "ttTUt59Q32eNf08e",
-  "data": "COhcy+7s1BooOF3r5sv3AI+mS7RhLSlNfrBVMF3YBtfNezW2ELRAuhbaGfH7rr2osXpzrswzwodcpyRHKZKg02S7eFgSM2DUDHkxoBhhg9h3HSVddlGh3oewL0K3rU5hKcTOLjMUXg4Cft1TgDMsH6I36DnncVrHw1UlwyP7df87E9Xo9eoetOa3vX3HtB0rv12w9bsahlfqmO7qaLr2KwFjEJLpvGptuR8VxVz5FOVqo5soDHWet/VqF8s+02drlIyQUmeZ2MKXwUrfmbTFCrhhErXLtJY7IlkSN5Ywi7ev5lbKV74MwSYZGb/NwPI+7bccBPj5AYe/SaAbJqqIVmNTkAxDuU+W2j4mCSdZ3CH6i+G1aRTMcAiVbMRn4GeKgLwXlWLDPvHGxCr8BMg/NmZBMiBzDy8pq2YQfanoxJLRxMIfBHmGunmVlchAuYv/2TaIUD0B7KCraBtWYmwQPzPacOb4GeBtKsgyduWnAlL9KO0EZ7flERabCkM0GEsv2CWaLLJCVNzngh2Ijz1xLWMNUnftphaSAZuWsCwUdWHPWhiMKlWgMqaTe4KOFwcuNuIfR+1gRhVEPCXYOnHDPm8ZuM0XVYmVXGtpsAEU3AO8ll1yokjoks/AJLXe7Kfb02382WnK8xQbtUTf/Jc7FNHb3KHUIn3KDg+cMAUQWyQQiD/CWwiXtFu6LR5Y3T4zxRyYQ+WLcW8UIw4+ZyelfAYPkbJN9btd0BFVNBzwjK9gqP4sBIYbLg8Fem/1rAWvrl0ph8OKGHziD4BXWqOfszK6hhVxAgxeQmF28aExH9ksD3IqzkkWpuXQ2vd65t87WULTUp7Zglr/fM1IzTtkb0RtqpAFn9AVzd+TUz6ZisMXSGvN3e+yFiah9E+4tHRn5XX0IXeUbn7GFcfl1KB/Bm3tjpDihxn7GRzt+7tAeAm/7+3JIwsu0nAs5N59ZJQTvgoWwQTc1rqFSRf34PCzcP8AB6eP55zM5UFKyjP6FL8aGRILmrHTWPtc9YAFYcfq0rTJcTNVF6CCp6Tq1W8d5JSHAe3y4KPmBnAqCxe54AN+zRXg4FFi1xOqfjFtAJKzX7Y925Otq2v6iL8OQ4HBjd6lzik="
+  "salt": "3jzjT2ECWcATfL60q4JsJA==",
+  "iv": "eapeWrBevlWcEeUX",
+  "data": "25weFGaj9f7Npyw+E1I8idhTiP76nGERXtFSz/RS5cgC3jaF7QMjVv1uj/uK6K7MCVcZodGF+2g6bIGRIynisZzSakq1s51C1U/bnQm8uQEr2PGokIAFGyKZGtKcZXgJHWfHQ5RWkBwEA7qKPsCRV93tGs9JFRT8ur03Kn8/Q2BiBbZ3riiQR0q4DIQjpzSq/edEIprqsfFn8AwOUy/x518+n+5QI1EaFT4OEO+Jn3Q2tySV+fp2HIYSEoez4PUBZiYH813ZEGrYvbkwix9wLkWeF0lt/FkAt6EZ+VG1V/C1yYnh3lGM/LUxi6QwA707TrRik3OnCM0lgo43ssRH8tavNlmrFBV+UB/Mq2m67NFarOq6Jbtx6dhZ6GOI3RvrmVxXehhNoMWCbvK5QwQm2qVCIJ7VrFTULX1JVKPIA55D4Px46u2KTKckunBwoULJYwG/6BtZvRVeLw97VSE+P6rqnAGDgVXS89LK7KrRbQxhIq9/XxpRzLPB8uN8be9Sa6937Nke1rPtvnsRyEwE1LOvhWY96JnixEENUGVOf2qW3bldSfvlWjC0Swc0odtgUcD0Um1v2uXskbdbqNNNtUAXEltpmAum+gOQhAzoHNFFlCoRfci0H9LWSDAlSz5G4CaHMwZ6H9cYJdPYnb/4UcRqtitdL8RmcFrVlJx7b4Etrb+A43Cx12jTy7CDh/qbdwYmBN2QIGW1z9Bv8cbq9Hzck4eSFEcUISRw77aPV8cz4Vf3lhCTEwScl15DR247Q4p36yx0rhunz0ozggbBAAE53GhOqrXZYf92QEU1zySQjjnPKMCnqPEv0dq5jFB0kvAaMNZAqDhISu82iJB74c5SKcTohc3Leq3s1dL4wedu4vQJkduV5fZOQLEhQobMbXFRgfTNT9XV8yG1J5kTCwaUrYeouVdUHu61hM181bwGfxFy/G5pgfp3Cwu5jcZEbeqF4OC+ZEfhziDKR1x0gj0cYzef5ytCvNG/BANjyiEg1f4c4/NH4eFhQsVl4cFYQCpqJJNM4kukUjlFpfztmobhxauv1dtl5NeYnBvk2SeL7ooqGNVPHMNN+zef1I1rtQScd1jbi9nldGTaV8xadzTcCI4="
  }
 }
