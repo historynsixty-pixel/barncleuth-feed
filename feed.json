@@ -1,194 +1,173 @@
 {
- "generated": "2026-10-31T18:45:20+11:00",
+ "generated": "2026-10-31T19:47:38+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
    "state": "DONE",
    "last_ts": "2026-10-29T18:50:50+11:00",
-   "has_input": true,
-   "next_run": null
+   "has_input": true
   },
   {
    "id": "head-of-social-media",
    "state": "DONE",
-   "last_ts": "2026-10-31T16:13:31+11:00",
-   "has_input": false,
-   "next_run": "2026-11-01T08:00:00+11:00"
+   "last_ts": "2026-10-31T18:46:53+11:00",
+   "has_input": false
   },
   {
    "id": "publisher",
    "state": "HOLD",
    "last_ts": "2026-10-31T18:23:17+11:00",
-   "has_input": false,
-   "next_run": "2026-11-07T18:00+11:00"
+   "has_input": false
   },
   {
    "id": "web-dev",
-   "state": "DONE",
-   "last_ts": "2026-10-31T18:41:40+11:00",
-   "has_input": false,
-   "next_run": null
+   "state": "HOLD",
+   "last_ts": "2026-10-31T19:37:15+11:00",
+   "has_input": false
   },
   {
    "id": "login-desk",
    "state": "BLOCKED",
    "last_ts": "2026-10-31T18:31:21+11:00",
-   "has_input": true,
-   "next_run": null
+   "has_input": true
   },
   {
    "id": "bright-stage",
    "state": "DONE",
    "last_ts": "2026-10-31T15:37:14+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "venture-desk",
    "state": "DONE",
    "last_ts": "2026-10-31T14:39:23+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "funnel-desk",
    "state": "DONE",
    "last_ts": "2026-10-31T15:25:41+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "numbers-desk",
    "state": "DONE",
    "last_ts": "2026-10-30T14:46:38+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "creative-chief",
-   "state": "QUEUED",
-   "last_ts": "2026-10-31T15:42:59+11:00",
-   "has_input": false,
-   "next_run": null
+   "state": "DONE",
+   "last_ts": "2026-10-31T19:06:18+11:00",
+   "has_input": false
   },
   {
    "id": "deep-time",
    "state": "DONE",
    "last_ts": "2026-10-30T14:12:40+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "brand-launcher",
    "state": "DONE",
    "last_ts": "2026-10-31T12:19:40+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "ai-search-visibility",
    "state": "DONE",
    "last_ts": "2026-10-30T14:31:56+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "hook-forensics",
    "state": "DONE",
-   "last_ts": "2026-10-31T15:48:47+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:06:41+11:00",
+   "has_input": false
   },
   {
    "id": "head-of-seo-aeo",
    "state": "DONE",
    "last_ts": "2026-10-30T18:58:03+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "graphics-design",
    "state": "DONE",
-   "last_ts": "2026-10-31T18:12:12+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:32:54+11:00",
+   "has_input": false
   },
   {
    "id": "head-of-retention",
    "state": "DONE",
-   "last_ts": "2026-10-31T14:59:44+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:04:56+11:00",
+   "has_input": false
   },
   {
    "id": "dr-eggbot",
    "state": "DONE",
-   "last_ts": "2026-10-30T14:33:03+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:15:11+11:00",
+   "has_input": false
   },
   {
    "id": "head-of-development",
    "state": "DONE",
-   "last_ts": "2026-10-31T10:51:09+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:14:11+11:00",
+   "has_input": false
   },
   {
    "id": "shop-desk-revenue",
    "state": "DONE",
    "last_ts": "2026-10-31T12:24:56+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "reel-studio",
    "state": "DONE",
-   "last_ts": "2026-10-31T18:27:48+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T18:55:14+11:00",
+   "has_input": false
   },
   {
    "id": "ai-scout",
    "state": "DONE",
    "last_ts": "2026-10-31T18:18:36+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "history-in-60-visuals",
    "state": "DONE",
    "last_ts": "2026-10-30T16:16:05+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "night-shift-tales",
    "state": "HOLD",
    "last_ts": "2026-10-31T07:04:09+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "dread-visuals",
    "state": "HOLD",
    "last_ts": "2026-10-31T07:04:38+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "tiny-scripts",
    "state": "DONE",
    "last_ts": "2026-10-31T12:09:47+11:00",
-   "has_input": false,
-   "next_run": null
+   "has_input": false
   },
   {
    "id": "nest-score",
    "state": "DONE",
-   "last_ts": "2026-10-31T15:32:37+11:00",
-   "has_input": false,
-   "next_run": null
+   "last_ts": "2026-10-31T19:11:13+11:00",
+   "has_input": false
+  },
+  {
+   "id": "billy",
+   "state": "DONE",
+   "last_ts": "2026-10-31T19:30:53+11:00",
+   "has_input": false
   }
  ],
  "posts": [
@@ -367,7 +346,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=hLz8NHNMP_U",
    "ts": "2026-10-30T07:14:46Z",
-   "views": 16,
+   "views": 18,
    "thumb": "https://i.ytimg.com/vi/hLz8NHNMP_U/hqdefault.jpg",
    "title": "5 movie last stands that still break people #shorts",
    "avg_view_pct": null
@@ -407,7 +386,7 @@
    "platform": "youtube",
    "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
    "ts": "2026-10-29T07:03:50Z",
-   "views": 126,
+   "views": 128,
    "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg",
    "title": "5 movie fight scenes that still hit",
    "avg_view_pct": null
@@ -959,7 +938,7 @@
     0
    ],
    "videos": 12,
-   "stats_ts": "2026-10-31T18:45:15+11:00"
+   "stats_ts": "2026-10-31T19:47:33+11:00"
   },
   {
    "platform": "youtube",
@@ -973,7 +952,7 @@
     0
    ],
    "videos": 11,
-   "stats_ts": "2026-10-31T18:45:15+11:00"
+   "stats_ts": "2026-10-31T19:47:33+11:00"
   },
   {
    "platform": "youtube",
@@ -987,7 +966,7 @@
     5
    ],
    "videos": 6,
-   "stats_ts": "2026-10-31T18:45:15+11:00"
+   "stats_ts": "2026-10-31T19:47:33+11:00"
   },
   {
    "platform": "youtube",
@@ -1001,7 +980,7 @@
     5
    ],
    "videos": 4,
-   "stats_ts": "2026-10-31T18:45:15+11:00"
+   "stats_ts": "2026-10-31T19:47:33+11:00"
   },
   {
    "platform": "instagram",
@@ -1150,13 +1129,12 @@
  ],
  "counts": {
   "desks_by_state": {
-   "DONE": 22,
-   "HOLD": 3,
-   "BLOCKED": 1,
-   "QUEUED": 1
+   "DONE": 23,
+   "HOLD": 4,
+   "BLOCKED": 1
   },
-  "queue": 35,
-  "holds": 20,
+  "queue": 36,
+  "holds": 21,
   "asks_open": 1
  },
  "meta": {
@@ -1268,7 +1246,7 @@
    },
    {
     "id": "shop-desk-revenue",
-    "name": "Shop Desk & Revenue"
+    "name": "Shop Desk"
    },
    {
     "id": "support-desk",
@@ -1287,14 +1265,14 @@
  },
  "inbox_enc": {
   "v": 1,
-  "salt": "rRL8iEao6vIZXucnK8kGBA==",
-  "iv": "a4j4woH7yE+1qZJX",
-  "data": "bFZiMecu96xQDEwKM9zb0NCOOhdLnKEkoMUSRoeHOlwtXz8EDbUF7HdyhMy52mHb43If0ikBwAWCgguG57nV5noay5GJqCIs/yJcKXXrCVGE8JTQQ+Rk9DGhD7LlKZnfjHGzfxNcfI8ZUkiL4Y77U5eO1zyp2usSx1q9TtWLVptVdAAiu+/2Vo626DFriBy0TLa8OW6UfA8XO0dZ4cHPoQfE/4U7EPIKTrV2P+iI7fixnTSRYr+Kl7n0B7U2IZn6/jI6Hi3FDRKvxMn685RehwIgXE1UfsytEKA5ErQ1tqWAH3HJYoGVZNfb6ceSmEgI1ZA+Xhtqym4LRPr3jMt2y16YgrlXZjkLgjCX3YaAzHP4idN2RfMSPkukXzXPDqsmhXj2YIsLg7hAOFtv2Qjg1nzrKJJacCKQ9qFYXGfUkk2icLCjkQ5vrE0n8C49Mm97aNe70Y4Uoji/7gKSpH+P2bqjASmkK0uBih3JtvweEJK4C4eVm65F+cCht0HGUA59q8RHPTnFyxipSjGFA+1cMxcnLwyOHQ=="
+  "salt": "Ir2jMHcjcdt+oEqmUzqtcQ==",
+  "iv": "skjuQdXcfc95susm",
+  "data": "1GEdRaWJcV9lVKfOKbpBmR1ZHr3kdtCmNA01hcnbqhLn9aeQVO0U2tEGmaPAB/ygCm6TNzKpwfG59AmMgjljE6zl6jhRqVRAsR124sT6zQ5FzV4rpP+iZX7UxK2k2oJ+GviV93urxO1QoTezSXTpY9kekwzUTVsrUhuhLFGWaK1j2j0JZp+05WZsasbLnZpl3gxunFjMWqhSF6vIQv/yyNkYuKR3azooMo/jIYgLIwxpDYqbrv78znTLVW+1EYbQfFVJtdgaSX29N6UA7WimL/6F0tYM11DRymqR1zZ2mwYwSncqHLUVofsJqJroG1LD/Fhl527UlNKfdt2/FuLfoUku9EmknXOGjFhMu77z9yJkb97XOtahu1h9B0fbB0fwClLoVBbvLZvuzfroKfAxiM1ORs48d2iO6s31mz9s9xALkoIfnWdcYS8c1PAxwpVV9VognFj4CgJoU1zKYUTk8mlp94kpdCnrDddc0vXo7QDq3jhQxAYqO83EXMwElZ6fZ8dVkdKlmOoIK6MYSw/3wjxh/8H9Zg=="
  },
  "trading_enc": {
   "v": 1,
-  "salt": "4zgGupWCEUGrgD1m9t92nw==",
-  "iv": "XBIPSqoBBHhMyaOF",
-  "data": "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"
+  "salt": "FVDm77SPsx4jFvySGWD96Q==",
+  "iv": "PG3ebQmXW3cnvql3",
+  "data": "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"
  }
 }
