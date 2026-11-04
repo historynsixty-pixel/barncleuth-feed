@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T09:12:21+11:00",
+ "generated": "2026-11-05T01:09:30+11:00",
  "desks": [
   {
    "id": "chief-of-staff",
@@ -9,26 +9,26 @@
   },
   {
    "id": "head-of-social-media",
-   "state": "BLOCKED",
-   "last_ts": "2026-11-03T08:05:18+11:00",
+   "state": "LIVE",
+   "last_ts": "2026-11-05T00:56:05+11:00",
    "has_input": false
   },
   {
    "id": "publisher",
-   "state": "BLOCKED",
-   "last_ts": "2026-11-04T09:12:06+11:00",
+   "state": "DONE",
+   "last_ts": "2026-11-05T01:08:50+11:00",
    "has_input": true
   },
   {
    "id": "web-dev",
-   "state": "DONE",
-   "last_ts": "2026-11-02T23:56:26+11:00",
+   "state": "LIVE",
+   "last_ts": "2026-11-05T00:56:12+11:00",
    "has_input": false
   },
   {
    "id": "login-desk",
-   "state": "DONE",
-   "last_ts": "2026-11-01T18:00:56+11:00",
+   "state": "BLOCKED",
+   "last_ts": "2026-11-05T00:56:34+11:00",
    "has_input": true
   },
   {
@@ -70,7 +70,7 @@
   {
    "id": "brand-launcher",
    "state": "BLOCKED",
-   "last_ts": "2026-10-31T20:50:46+11:00",
+   "last_ts": "2026-11-05T01:09:30+11:00",
    "has_input": false
   },
   {
@@ -88,31 +88,31 @@
   {
    "id": "head-of-seo-aeo",
    "state": "DONE",
-   "last_ts": "2026-10-30T18:58:03+11:00",
+   "last_ts": "2026-11-05T00:58:01+11:00",
    "has_input": false
   },
   {
    "id": "graphics-design",
-   "state": "DONE",
-   "last_ts": "2026-11-01T16:31:38+11:00",
+   "state": "LIVE",
+   "last_ts": "2026-11-05T00:56:13+11:00",
    "has_input": false
   },
   {
    "id": "head-of-retention",
-   "state": "DONE",
-   "last_ts": "2026-10-31T19:04:56+11:00",
+   "state": "HOLD",
+   "last_ts": "2026-11-05T00:55:59+11:00",
    "has_input": false
   },
   {
    "id": "dr-eggbot",
-   "state": "DONE",
-   "last_ts": "2026-10-31T19:15:11+11:00",
+   "state": "HOLD",
+   "last_ts": "2026-11-05T00:56:18+11:00",
    "has_input": false
   },
   {
    "id": "head-of-development",
    "state": "DONE",
-   "last_ts": "2026-10-31T19:14:11+11:00",
+   "last_ts": "2026-11-05T01:07:51+11:00",
    "has_input": false
   },
   {
@@ -129,8 +129,8 @@
   },
   {
    "id": "ai-scout",
-   "state": "DONE",
-   "last_ts": "2026-11-01T07:38:41+11:00",
+   "state": "HOLD",
+   "last_ts": "2026-11-05T00:56:21+11:00",
    "has_input": false
   },
   {
@@ -154,12 +154,13 @@
   {
    "id": "billy",
    "state": "DONE",
-   "last_ts": "2026-10-31T19:30:53+11:00",
+   "last_ts": "2026-11-04T22:31:00+11:00",
    "has_input": false
   },
   {
    "id": "support-desk",
-   "state": "DONE",
+   "state": "HOLD",
+   "last_ts": "2026-11-05T00:56:21+11:00",
    "has_input": false
   },
   {
@@ -189,6 +190,206 @@
   }
  ],
  "posts": [
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2156588932400059",
+   "ts": "2026-11-05T01:08:50+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "-",
+   "platform": "-",
+   "url": "https://barncleuth.com/",
+   "ts": "2026-11-05T00:55:29+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/3670470226452392",
+   "ts": "2026-11-05T00:54:55+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1589331909615997",
+   "ts": "2026-11-05T00:54:54+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/q3o3M0YKpsk",
+   "ts": "2026-11-05T00:32:17+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/OZdsQe0DwKg",
+   "ts": "2026-11-05T00:32:17+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/tx9Hzc10H0c",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/z0MpFtT8B3U",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/0hj5bUJSRDU",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/RwfHvEdCshs",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/SCq5vZj-GHI",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/i8NGIrO6Jvg",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUiwotkicp/",
+   "ts": "2026-11-05T00:17:20+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUiQUxiOjI/",
+   "ts": "2026-11-05T00:13:01+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUh1oKFf_k/",
+   "ts": "2026-11-05T00:09:16+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUhcmFDwD8/",
+   "ts": "2026-11-05T00:05:52+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUgR3XFCnn/",
+   "ts": "2026-11-04T23:55:41+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUf3VRDMWk/",
+   "ts": "2026-11-04T23:52:09+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUfWExDiAP/",
+   "ts": "2026-11-04T23:47:37+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUfALZjXCC/",
+   "ts": "2026-11-04T23:44:38+11:00",
+   "views": null,
+   "thumb": null,
+   "title": null,
+   "avg_view_pct": null
+  },
   {
    "brand": "HI60",
    "platform": "instagram",
@@ -388,209 +589,149 @@
    "thumb": null,
    "title": null,
    "avg_view_pct": null
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-31T01:22:55Z",
-   "views": 2,
-   "thumb": null,
-   "title": "Snack Time Song for Toddlers | Nest Notes",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "SF",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfCkKiKhb12/",
-   "ts": "2026-10-30T19:39:04+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://youtube.com/shorts/hLz8NHNMP_U",
-   "ts": "2026-10-30T18:14:55+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "FU1",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2241692073428253",
-   "ts": "2026-10-30T17:27:16+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@history_n_60s/video/7702334195158224149",
-   "ts": "2026-10-30T17:19:08+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://youtube.com/shorts/DfJsKzbwnIY",
-   "ts": "2026-10-30T17:19:07+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1116010394468864",
-   "ts": "2026-10-30T17:19:07+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfG3PRPgi7s/",
-   "ts": "2026-10-30T16:47:10+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-30T09:55:26+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "FU1",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1939608843681750",
-   "ts": "2026-10-30T09:13:08+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfF8ifCI_Mg/",
-   "ts": "2026-10-30T08:15:02+11:00",
-   "views": null,
-   "thumb": null,
-   "title": null,
-   "avg_view_pct": null
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=hLz8NHNMP_U",
-   "ts": "2026-10-30T07:14:46Z",
-   "views": 28,
-   "thumb": "https://i.ytimg.com/vi/hLz8NHNMP_U/hqdefault.jpg",
-   "title": "5 movie last stands that still break people #shorts",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=DfJsKzbwnIY",
-   "ts": "2026-10-30T05:44:30Z",
-   "views": 645,
-   "thumb": "https://i.ytimg.com/vi/DfJsKzbwnIY/hqdefault.jpg",
-   "title": "Julius Caesar: He Raised His Ransom — Part 1 #shorts",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-29T22:54:59Z",
-   "views": 1,
-   "thumb": null,
-   "title": "Wash Hands Song for Toddlers | Nest Notes",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
-   "ts": "2026-10-29T21:00:12Z",
-   "views": 292,
-   "thumb": "https://i.ytimg.com/vi/ITy8zVcIxdQ/hqdefault.jpg",
-   "title": "Alexander: Dead at Thirty-Two — Part 2 #shorts",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
-   "ts": "2026-10-29T07:03:50Z",
-   "views": 149,
-   "thumb": "https://i.ytimg.com/vi/DYuFlj5OT-Q/hqdefault.jpg",
-   "title": "5 movie fight scenes that still hit",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-28T20:54:29Z",
-   "views": 4,
-   "thumb": null,
-   "title": "Color Clap Song for Toddlers | Nest Notes",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-28T20:21:32Z",
-   "views": 2,
-   "thumb": null,
-   "title": "Good Morning Song for Toddlers | Nest Notes",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "SF",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=RKLkzVHak4U",
-   "ts": "2026-10-28T12:39:11Z",
-   "views": 250,
-   "thumb": "https://i.ytimg.com/vi/RKLkzVHak4U/hqdefault.jpg",
-   "title": "My live captions started describing my room. #Shorts",
-   "avg_view_pct": null
-  },
-  {
-   "brand": "SF",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=AkRGZ1_RnjQ",
-   "ts": "2026-10-28T12:37:35Z",
-   "views": 25,
-   "thumb": "https://i.ytimg.com/vi/AkRGZ1_RnjQ/hqdefault.jpg",
-   "title": "I put the whole city to sleep. #Shorts",
-   "avg_view_pct": null
   }
  ],
  "schedule": [
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2156588932400059",
+   "ts": "2026-11-05T01:08:50+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "-",
+   "platform": "-",
+   "url": "https://barncleuth.com/",
+   "ts": "2026-11-05T00:55:29+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/3670470226452392",
+   "ts": "2026-11-05T00:54:55+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "other",
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1589331909615997",
+   "ts": "2026-11-05T00:54:54+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/q3o3M0YKpsk",
+   "ts": "2026-11-05T00:32:17+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/OZdsQe0DwKg",
+   "ts": "2026-11-05T00:32:17+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/tx9Hzc10H0c",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/z0MpFtT8B3U",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/0hj5bUJSRDU",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/RwfHvEdCshs",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/SCq5vZj-GHI",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "youtube",
+   "url": "https://youtube.com/shorts/i8NGIrO6Jvg",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUiwotkicp/",
+   "ts": "2026-11-05T00:17:20+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUiQUxiOjI/",
+   "ts": "2026-11-05T00:13:01+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUh1oKFf_k/",
+   "ts": "2026-11-05T00:09:16+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUhcmFDwD8/",
+   "ts": "2026-11-05T00:05:52+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUgR3XFCnn/",
+   "ts": "2026-11-04T23:55:41+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUf3VRDMWk/",
+   "ts": "2026-11-04T23:52:09+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUfWExDiAP/",
+   "ts": "2026-11-04T23:47:37+11:00",
+   "state": "LIVE"
+  },
+  {
+   "brand": "HI60",
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DfUfALZjXCC/",
+   "ts": "2026-11-04T23:44:38+11:00",
+   "state": "LIVE"
+  },
   {
    "brand": "HI60",
    "platform": "instagram",
@@ -732,146 +873,6 @@
    "state": "LIVE"
   },
   {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-31T01:22:55Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "SF",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfCkKiKhb12/",
-   "ts": "2026-10-30T19:39:04+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://youtube.com/shorts/hLz8NHNMP_U",
-   "ts": "2026-10-30T18:14:55+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "FU1",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2241692073428253",
-   "ts": "2026-10-30T17:27:16+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@history_n_60s/video/7702334195158224149",
-   "ts": "2026-10-30T17:19:08+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://youtube.com/shorts/DfJsKzbwnIY",
-   "ts": "2026-10-30T17:19:07+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1116010394468864",
-   "ts": "2026-10-30T17:19:07+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfG3PRPgi7s/",
-   "ts": "2026-10-30T16:47:10+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-30T09:55:26+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "FU1",
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1939608843681750",
-   "ts": "2026-10-30T09:13:08+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "instagram",
-   "url": "https://www.instagram.com/reel/DfF8ifCI_Mg/",
-   "ts": "2026-10-30T08:15:02+11:00",
-   "state": "LIVE"
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=hLz8NHNMP_U",
-   "ts": "2026-10-30T07:14:46Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=DfJsKzbwnIY",
-   "ts": "2026-10-30T05:44:30Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-29T22:54:59Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "HI60",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=ITy8zVcIxdQ",
-   "ts": "2026-10-29T21:00:12Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "FU1",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=DYuFlj5OT-Q",
-   "ts": "2026-10-29T07:03:50Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-28T20:54:29Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "NN",
-   "platform": "youtube",
-   "url": null,
-   "ts": "2026-10-28T20:21:32Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "SF",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=RKLkzVHak4U",
-   "ts": "2026-10-28T12:39:11Z",
-   "state": "LIVE"
-  },
-  {
-   "brand": "SF",
-   "platform": "youtube",
-   "url": "https://www.youtube.com/watch?v=AkRGZ1_RnjQ",
-   "ts": "2026-10-28T12:37:35Z",
-   "state": "LIVE"
-  },
-  {
    "brand": "-",
    "state": "UPCOMING",
    "count": 1
@@ -884,7 +885,7 @@
   {
    "brand": "HI60",
    "state": "UPCOMING",
-   "count": 10
+   "count": 2
   },
   {
    "brand": "SF",
@@ -925,13 +926,13 @@
   },
   {
    "desk": "publisher",
-   "brand": "NN",
-   "count": 5
+   "brand": "SF",
+   "count": 3
   },
   {
    "desk": "publisher",
-   "brand": "SF",
-   "count": 3
+   "brand": "other",
+   "count": 1
   },
   {
    "desk": "reel-studio",
@@ -939,12 +940,18 @@
    "count": 2
   }
  ],
- "approvals": [],
+ "approvals": [
+  {
+   "desk": "sales-assistant",
+   "brand": "-",
+   "count": 8
+  }
+ ],
  "blockers": [
   {
    "desk": "brand-launcher",
    "brand": "-",
-   "count": 1
+   "count": 3
   },
   {
    "desk": "head-of-social-media",
@@ -959,7 +966,7 @@
   {
    "desk": "login-desk",
    "brand": "-",
-   "count": 1
+   "count": 2
   },
   {
    "desk": "login-desk",
@@ -975,16 +982,16 @@
    "desk": "publisher",
    "brand": "HI60",
    "count": 3
-  },
-  {
-   "desk": "publisher",
-   "brand": "NN",
-   "count": 5
   },
   {
    "desk": "publisher",
    "brand": "SF",
    "count": 3
+  },
+  {
+   "desk": "publisher",
+   "brand": "other",
+   "count": 1
   },
   {
    "desk": "reel-studio",
@@ -1010,12 +1017,12 @@
     0
    ],
    "videos": 11,
-   "stats_ts": "2026-11-04T08:57:30+11:00"
+   "stats_ts": "2026-11-05T00:53:27+11:00"
   },
   {
    "platform": "youtube",
    "name": "History in 60 (YouTube)",
-   "views": 5811,
+   "views": 5815,
    "likes": null,
    "subs": 10,
    "history": [
@@ -1023,13 +1030,13 @@
     0,
     0
    ],
-   "videos": 15,
-   "stats_ts": "2026-11-04T08:57:30+11:00"
+   "videos": 23,
+   "stats_ts": "2026-11-05T00:53:27+11:00"
   },
   {
    "platform": "youtube",
    "name": "Five Until One (YouTube)",
-   "views": 2337,
+   "views": 2345,
    "likes": null,
    "subs": 5,
    "history": [
@@ -1038,7 +1045,7 @@
     5
    ],
    "videos": 6,
-   "stats_ts": "2026-11-04T08:57:30+11:00"
+   "stats_ts": "2026-11-05T00:53:27+11:00"
   },
   {
    "platform": "youtube",
@@ -1052,7 +1059,7 @@
     5
    ],
    "videos": 6,
-   "stats_ts": "2026-11-04T08:57:30+11:00"
+   "stats_ts": "2026-11-05T00:53:27+11:00"
   },
   {
    "platform": "instagram",
@@ -1201,11 +1208,13 @@
  ],
  "counts": {
   "desks_by_state": {
-   "DONE": 29,
-   "BLOCKED": 3
+   "DONE": 23,
+   "LIVE": 3,
+   "BLOCKED": 2,
+   "HOLD": 4
   },
-  "queue": 39,
-  "holds": 45,
+  "queue": 41,
+  "holds": 54,
   "asks_open": 7
  },
  "meta": {
@@ -1239,7 +1248,7 @@
    {
     "id": "ai-scout",
     "name": "AI Scout",
-    "last_at": "2026-11-01T07:38:41+11:00"
+    "last_at": "2026-11-05T00:56:21+11:00"
    },
    {
     "id": "ai-search-visibility",
@@ -1248,7 +1257,8 @@
    },
    {
     "id": "brand-launcher",
-    "name": "Brand Launcher"
+    "name": "Brand Launcher",
+    "last_at": "2026-11-05T01:09:30+11:00"
    },
    {
     "id": "bright-stage",
@@ -1270,7 +1280,8 @@
    },
    {
     "id": "dr-eggbot",
-    "name": "dr eggbot"
+    "name": "dr eggbot",
+    "last_at": "2026-11-05T00:56:18+11:00"
    },
    {
     "id": "funnel-desk",
@@ -1279,26 +1290,29 @@
    {
     "id": "graphics-design",
     "name": "Graphics Design",
-    "last_at": "2026-11-01T16:31:38+11:00"
+    "last_at": "2026-11-05T00:56:13+11:00"
    },
    {
     "id": "head-of-development",
     "name": "Head of Development",
-    "wake": "on-demand"
+    "wake": "on-demand",
+    "last_at": "2026-11-05T01:07:51+11:00"
    },
    {
     "id": "head-of-retention",
-    "name": "Head of Retention"
+    "name": "Head of Retention",
+    "last_at": "2026-11-05T00:55:59+11:00"
    },
    {
     "id": "head-of-seo-aeo",
-    "name": "Head of SEO & AEO"
+    "name": "Head of SEO & AEO",
+    "last_at": "2026-11-05T00:58:01+11:00"
    },
    {
     "id": "head-of-social-media",
     "name": "Head of Social Media",
     "wake": "daily",
-    "last_at": "2026-11-03T08:05:18+11:00"
+    "last_at": "2026-11-05T00:56:05+11:00"
    },
    {
     "id": "hook-forensics",
@@ -1307,7 +1321,7 @@
    {
     "id": "login-desk",
     "name": "Login Desk",
-    "last_at": "2026-11-01T18:22:52+11:00"
+    "last_at": "2026-11-05T00:56:34+11:00"
    },
    {
     "id": "numbers-desk",
@@ -1316,7 +1330,7 @@
    {
     "id": "publisher",
     "name": "Publisher",
-    "last_at": "2026-11-04T09:12:06+11:00"
+    "last_at": "2026-11-05T01:08:50+11:00"
    },
    {
     "id": "reel-studio",
@@ -1330,7 +1344,8 @@
    },
    {
     "id": "support-desk",
-    "name": "Support Desk"
+    "name": "Support Desk",
+    "last_at": "2026-11-05T00:56:21+11:00"
    },
    {
     "id": "venture-desk",
@@ -1340,7 +1355,7 @@
     "id": "web-dev",
     "name": "Web Dev",
     "wake": "on-demand",
-    "last_at": "2026-11-02T23:56:26+11:00"
+    "last_at": "2026-11-05T00:56:12+11:00"
    }
   ]
  },
@@ -1717,56 +1732,6 @@
   },
   {
    "desk": "publisher",
-   "brand": "NN",
-   "platform": "youtube",
-   "state": "BLOCKED",
-   "reason": "GO needs YT Studio for Made for Kids and AI label; Composio YT link has no Nest channel",
-   "waiting_on": "desk:publisher",
-   "waiting_label": null,
-   "blocked_since": "2026-11-04T09:12:04+11:00"
-  },
-  {
-   "desk": "publisher",
-   "brand": "NN",
-   "platform": "youtube",
-   "state": "BLOCKED",
-   "reason": "GO needs YT Studio for Made for Kids and AI label; Composio YT link has no Nest channel",
-   "waiting_on": "desk:publisher",
-   "waiting_label": null,
-   "blocked_since": "2026-11-04T09:12:04+11:00"
-  },
-  {
-   "desk": "publisher",
-   "brand": "NN",
-   "platform": "youtube",
-   "state": "BLOCKED",
-   "reason": "GO needs YT Studio for Made for Kids and AI label; Composio YT link has no Nest channel",
-   "waiting_on": "desk:publisher",
-   "waiting_label": null,
-   "blocked_since": "2026-11-04T09:12:04+11:00"
-  },
-  {
-   "desk": "publisher",
-   "brand": "NN",
-   "platform": "youtube",
-   "state": "BLOCKED",
-   "reason": "GO needs YT Studio for Made for Kids and AI label; Composio YT link has no Nest channel",
-   "waiting_on": "desk:publisher",
-   "waiting_label": null,
-   "blocked_since": "2026-11-04T09:12:05+11:00"
-  },
-  {
-   "desk": "publisher",
-   "brand": "NN",
-   "platform": "youtube",
-   "state": "BLOCKED",
-   "reason": "GO needs YT Studio for Made for Kids and AI label; Composio YT link has no Nest channel",
-   "waiting_on": "desk:publisher",
-   "waiting_label": null,
-   "blocked_since": "2026-11-04T09:12:05+11:00"
-  },
-  {
-   "desk": "publisher",
    "brand": "FU1",
    "platform": "instagram",
    "state": "BLOCKED",
@@ -1784,9 +1749,317 @@
    "waiting_on": "desk:publisher",
    "waiting_label": null,
    "blocked_since": "2026-11-04T09:12:06+11:00"
+  },
+  {
+   "desk": "publisher",
+   "brand": "other",
+   "platform": "instagram",
+   "state": "BLOCKED",
+   "reason": null,
+   "waiting_on": "desk:login-desk",
+   "waiting_label": null,
+   "blocked_since": "2026-11-05T00:56:11+11:00"
+  },
+  {
+   "desk": "brand-launcher",
+   "brand": "-",
+   "platform": "-",
+   "state": "BLOCKED",
+   "reason": null,
+   "waiting_on": null,
+   "waiting_label": null,
+   "blocked_since": "2026-11-05T00:56:26+11:00"
+  },
+  {
+   "desk": "login-desk",
+   "brand": "-",
+   "platform": "-",
+   "state": "BLOCKED",
+   "reason": null,
+   "waiting_on": null,
+   "waiting_label": null,
+   "blocked_since": "2026-11-05T00:56:34+11:00"
+  },
+  {
+   "desk": "publisher",
+   "brand": "other",
+   "platform": "facebook",
+   "state": "HOLD",
+   "reason": null,
+   "waiting_on": null,
+   "waiting_label": null,
+   "blocked_since": "2026-11-05T00:56:53+11:00"
+  },
+  {
+   "desk": "publisher",
+   "brand": "other",
+   "platform": "facebook",
+   "state": "HOLD",
+   "reason": null,
+   "waiting_on": null,
+   "waiting_label": null,
+   "blocked_since": "2026-11-05T01:00:44+11:00"
+  },
+  {
+   "desk": "brand-launcher",
+   "brand": "-",
+   "platform": "-",
+   "state": "BLOCKED",
+   "reason": "Shift Fuel FB Page needs owner login; IG links app-only; Future in 60 YT needs phone verify",
+   "waiting_on": "owner",
+   "waiting_label": "Andrew sign-ins",
+   "blocked_since": "2026-11-05T01:09:30+11:00"
   }
  ],
  "runs": [
+  {
+   "desk": "brand-launcher",
+   "ts": "2026-11-05T01:09:29+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T01:08:50+11:00",
+   "title": "Posted to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T01:08:50+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-development",
+   "ts": "2026-11-05T01:07:51+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-development",
+   "ts": "2026-11-05T01:05:43+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-seo-aeo",
+   "ts": "2026-11-05T00:58:01+11:00",
+   "title": "Review finished",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:56:33+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-development",
+   "ts": "2026-11-05T00:56:30+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "brand-launcher",
+   "ts": "2026-11-05T00:56:26+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "graphics-design",
+   "ts": "2026-11-05T00:56:13+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "web-dev",
+   "ts": "2026-11-05T00:56:12+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-social-media",
+   "ts": "2026-11-05T00:56:05+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-seo-aeo",
+   "ts": "2026-11-05T00:56:00+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-seo-aeo",
+   "ts": "2026-11-05T00:55:29+11:00",
+   "title": "Review finished",
+   "ok": true
+  },
+  {
+   "desk": "head-of-social-media",
+   "ts": "2026-11-05T00:55:29+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "head-of-retention",
+   "ts": "2026-11-05T00:55:28+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:55:24+11:00",
+   "title": "Posted to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:54:55+11:00",
+   "title": "Posted to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:54:54+11:00",
+   "title": "Posted History in 60 to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:54:54+11:00",
+   "title": "Posted to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:54:53+11:00",
+   "title": "Posted History in 60 to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:54:52+11:00",
+   "title": "Posted History in 60 to Facebook",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:32:17+11:00",
+   "title": "Posted History in 60 to YouTube",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:32:16+11:00",
+   "title": "Posted History in 60 to YouTube",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:32:15+11:00",
+   "title": "Posted History in 60 to YouTube",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:23:26+11:00",
+   "title": "Post to YouTube",
+   "ok": false,
+   "error": "Stopped before it finished"
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:23:25+11:00",
+   "title": "Post to YouTube",
+   "ok": false,
+   "error": "Stopped before it finished"
+  },
+  {
+   "desk": "support-desk",
+   "ts": "2026-11-05T00:20:10+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "support-desk",
+   "ts": "2026-11-05T00:18:37+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "support-desk",
+   "ts": "2026-11-05T00:17:22+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:17:20+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "support-desk",
+   "ts": "2026-11-05T00:16:12+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:13:01+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:09:16+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-05T00:05:52+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-04T23:55:41+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-04T23:52:09+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-04T23:47:37+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "publisher",
+   "ts": "2026-11-04T23:44:38+11:00",
+   "title": "Posted History in 60 to Instagram",
+   "ok": true
+  },
+  {
+   "desk": "brand-launcher",
+   "ts": "2026-11-04T23:37:00+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
+  {
+   "desk": "billy",
+   "ts": "2026-11-04T22:31:00+11:00",
+   "title": "Finished a job",
+   "ok": true
+  },
   {
    "desk": "publisher",
    "ts": "2026-11-04T09:12:03+11:00",
@@ -3342,252 +3615,6 @@
    "ts": "2026-10-30T16:02:45+11:00",
    "title": "Draft finished",
    "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T15:59:58+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "reel-studio",
-   "ts": "2026-10-30T15:58:38+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "history-in-60-visuals",
-   "ts": "2026-10-30T15:53:53+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "history-in-60-visuals",
-   "ts": "2026-10-30T15:53:52+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "reel-studio",
-   "ts": "2026-10-30T15:45:24+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "reel-studio",
-   "ts": "2026-10-30T15:35:40+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "head-of-development",
-   "ts": "2026-10-30T15:34:36+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T15:30:22+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "reel-studio",
-   "ts": "2026-10-30T15:24:22+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T15:19:32+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T15:17:58+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T15:15:47+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "history-in-60-visuals",
-   "ts": "2026-10-30T14:50:15+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "graphics-design",
-   "ts": "2026-10-30T14:47:31+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "head-of-seo-aeo",
-   "ts": "2026-10-30T14:47:23+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "head-of-retention",
-   "ts": "2026-10-30T14:46:51+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "numbers-desk",
-   "ts": "2026-10-30T14:46:38+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "numbers-desk",
-   "ts": "2026-10-30T14:46:37+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "venture-desk",
-   "ts": "2026-10-30T14:45:50+11:00",
-   "title": "Review finished",
-   "ok": true
-  },
-  {
-   "desk": "funnel-desk",
-   "ts": "2026-10-30T14:45:26+11:00",
-   "title": "Draft finished",
-   "ok": true
-  },
-  {
-   "desk": "head-of-social-media",
-   "ts": "2026-10-30T14:44:29+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "ai-scout",
-   "ts": "2026-10-30T14:40:04+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "reel-studio",
-   "ts": "2026-10-30T14:39:24+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "shop-desk-revenue",
-   "ts": "2026-10-30T14:39:15+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "shop-desk-revenue",
-   "ts": "2026-10-30T14:38:47+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "web-dev",
-   "ts": "2026-10-30T14:38:32+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "venture-desk",
-   "ts": "2026-10-30T14:34:06+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "numbers-desk",
-   "ts": "2026-10-30T14:34:06+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "publisher",
-   "ts": "2026-10-30T14:34:06+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "funnel-desk",
-   "ts": "2026-10-30T14:33:33+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "head-of-development",
-   "ts": "2026-10-30T14:33:15+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "head-of-social-media",
-   "ts": "2026-10-30T14:33:08+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "login-desk",
-   "ts": "2026-10-30T14:33:05+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "dr-eggbot",
-   "ts": "2026-10-30T14:33:03+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "publisher",
-   "ts": "2026-10-30T14:32:46+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "head-of-retention",
-   "ts": "2026-10-30T14:32:15+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "graphics-design",
-   "ts": "2026-10-30T14:32:12+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "head-of-seo-aeo",
-   "ts": "2026-10-30T14:32:01+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "hook-forensics",
-   "ts": "2026-10-30T14:31:59+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "ai-search-visibility",
-   "ts": "2026-10-30T14:31:56+11:00",
-   "title": "Finished a job",
-   "ok": true
-  },
-  {
-   "desk": "brand-launcher",
-   "ts": "2026-10-30T14:31:55+11:00",
-   "title": "Finished a job",
-   "ok": true
   }
  ],
  "routines": [
@@ -3603,30 +3630,30 @@
  ],
  "inbox_enc": {
   "v": 1,
-  "salt": "xQiYKPAtzo0+meYpQhjODg==",
-  "iv": "gqwrM08EXDqxvEtx",
-  "data": "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"
+  "salt": "0mkEU0vp2j6MKt9j1pqC7A==",
+  "iv": "wfr6ql9Uzr+R9ROL",
+  "data": "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"
  },
  "inbox_sealed": {
   "v": 1,
   "alg": "RSA-OAEP-256+A256GCM",
   "kid": "8f5debc4f6768453",
-  "ek": "SCcClwv5OgAZQkuu8JdT5U0Vt8zBuA/OREJFe5zVrDqTCVsGsXbg583hRJVzjgm/drF/uqh43I5LUwcJT7m+QI/K5nKEJA3vdwhXT3P4hVmG0w52hR/+ZrG8wlDIzNISNJ43hOhSsE+X8lFE3rmmVM8kFl8Ne3bKgc9gW+n8Zg42WEBZ3eIlnLGdvoPoOF+YOmk/jpbTC4Mz8YAOnPCSMDO7xUB1IXoDuOIT6Ubm3y+XB71FGDrFv6AWgAS9XEbaQVRYjG0r8TZTTjIPmJ2V+CsHlfvr+/z4YrpzxX/Cpx+FCXnbuYkFd8p0QJeVHfFVTLT2Xryq15gOpjq54LGOk4VsIayDXrW2HMnEfNmIFY6dRzQId4/GxiHGS4s9+PxtEdqUmGLNUxS3Ni4CqxW2ARXFF4ma7dPz026cXs7Xc8rcy7CNXpGRTvhnulNwxHlykMBVZEtXfe58fi8NG1SPHL1FjxpnA/vsFsFvaPjZ/dlx+bPQDJXQMFjUHJ5ROQC/",
-  "iv": "zE7NNgYz9AHHCKM9",
-  "data": "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"
+  "ek": "JbF56h4PFROMuJNO66LcULwblW501TLXSrhZ6gJs1F2BLGZWVhwOpLfeueYpb6ybBtN/KHTzL64U59dRWfduUKtChGxwUIvnr0zIeWSELjt+YGdj8jUrw0xNsWO1Binq2g544Eexsoe5I9gsePDTSEyj0nzuat/+Qe7mPLI1kNdcTHtMZ+VN48xH2epXdvE3YKeYR0l5iYleZA6cAl70cgEgnm9VYCefllNLwpZFa1CfnXecSOxZR5w5y/foLyZ01AyP6P/1wk+b2h4vELNIqLJ+AAXRxl/OaOyDIepuVqzat6IzW+3y9rQDPwTuWHaWMr2+FJSsGeAGvHALcvnwOYR6MlFI/YPBzQKfuLVX7JVrskEK+MiMJRjBytAvkJ1tyRzao5expsELbN4o5cBbNbp93c4NEVenUM1j6sIko0pWGqE82hTAWUmAkCtcR3jrO0Br4kV4YwnnfYR8+4hADBvutPV6zBvHmtfBRgPYJ7WdHaLcxXy1RL/sn7eu3TnN",
+  "iv": "Nbbe5ylHiqTCY1P5",
+  "data": "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"
  },
  "trading_enc": {
   "v": 1,
-  "salt": "JEHCkBqTtYwsa4iKemR8IQ==",
-  "iv": "5qaLkaukG7T2sQeA",
-  "data": "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"
+  "salt": "/2R5xv0RcQVfQxzGzJvdkQ==",
+  "iv": "XtztPVZ292EKwkmP",
+  "data": "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"
  },
  "trading_sealed": {
   "v": 1,
   "alg": "RSA-OAEP-256+A256GCM",
   "kid": "8f5debc4f6768453",
-  "ek": "dYMp0WMghcG8XUwlVgyOb8/4Iek/fFKYFm75dJjbTiwxOTFCTluDYnFQa+UKehXwSgWGIme+OcWnRq7dNQmSLm9NPhBaID3fHmvRlfmbq7ExXbHZ0L88+ich1JFigVveNdvohpj0Jm3LHpFhQoLHO1W9HXu3cJbK7JwMVK0BV6BihlbwBQXycq1uPJa47VKM8oLITiy65dTvTUITzZijH3LsixL5Q3IYSR/frthH2K9fDPA8W6vVDZpz+STvUSrCM8ScSU3J15qp2Az5CaLd1XLrr5hqaUI7YFP3M12xRA+2qXrWdoV0/8RKUJn0d32ejceaO21JbXHWfAQWXvKxw+B9LtPxb9z+jHFTas9YxWWfYgQtBOwpqoJTPc8C1QRnluHW18aLc5hEsGsxvWs9M7UBroFf2NefUY77gBMi70s+tdBjbKUW+Bd4ajP/vcOL0Be7lDA18G6ufili3FIlRGMvLnBPWvJqT4zgfOKkjsyyZl2XmXB2gjyeF0bs61l0",
-  "iv": "Yt79ic+OTSMWQjsY",
-  "data": "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"
+  "ek": "T8TyEULdNeyOQVhfpTLEIfc9ivMQqozOXeJ+6XZ6yQdonLN9uKCMm6HrI0ZGdzCvsT9r83Ua4YrxcvK+ypoWiYzoCNvgE3QwFHx9GlIZJ4EJQ+cSwVOhYlrLXN9xtk9nPR9BsESf8uxpJQnwYkycpoidGbAppC1wdIsqEvMZcfYAB0BHO0AvCRbkc1s3L3wbxk7GIwAWvaaPj3fjgSPycxXGqupsitZafxjBwcG6yGMu0rCZ5F8FgJ/PrDFazmzZDGDmgvE71qwpsV4dRORTKe/7Sz5Eo1BLQkezS+Sy5Y7uscu/I+wJX0xPf3JdtmQkAXi1LyUYNvzteGkHNuBySqLmPzgg7lEfKD8tGBtceyKvaG/66sbp+boKAx764tYQ6PmTd/3aQIAT7vVK05GP0ksR0Hw5I1E5dY6fEY6mqynf3T361LmM7V/6lvU4LvkWsRFteLLoLsgnsXwRSRMd84whTSrExlvG/ale8D3Kp1LBFbyxt4z0XHNTWyjjVcfK",
+  "iv": "osn2HZEnIbGjxPw9",
+  "data": "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"
  }
 }
